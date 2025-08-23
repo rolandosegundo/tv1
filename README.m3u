@@ -150,6 +150,12 @@ http://199.188.103.176:8000/play/a050/index.m3u8
 #EXTINF:-1, RCN NOVELAS C/TV
 http://199.188.103.176:8000/play/a0fx/index.m3u8
 #EXTINF:-1,DEPORTES
+#EXTINF:-1 group-title="-",TUDN 59 - IPMOD
+http://186.33.0.101:4430/play/tudn2/index.m3u8
+#EXTINF:-1 group-title="-",TUDN-CH59
+http://186.33.0.101:4430/play/tudn/index.m3u8
+#EXTINF:-1 group-title="-",Canal 65
+http://186.33.0.101:4430/play/canalseiscinco/index.m3u8
 #EXTINF:-1 group-title="-",11 AZ Deportes
 http://201.174.175.3:8000/play/a0nr/index.m3u8
 #EXTINF:-1 group-title="-",69 ESPN HD
