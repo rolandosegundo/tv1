@@ -17,8 +17,14 @@ http://45.189.151.7:8000/play/a04m/index.m3u8
 http://201.174.175.3:8000/play/a0wn/index.m3u8
 #EXTINF:-1 group-title="-",3 CANAL 5 HD
 http://201.174.175.3:8000/play/a0m4/index.m3u8
+#EXTINF:-1,CANAL 6 HD
+http://190.7.192.162:8001/play/s2
 #EXTINF:-1 group-title="-",7 Azteca 7
 http://201.174.175.3:8000/play/a0kl/index.m3u8
+#EXTINF:-1,MMTV-CR 8.1
+http://190.7.192.164:8020/play/s40
+#EXTINF:-1,MMTV 8.2
+http://190.7.192.164:8020/play/s41
 #EXTINF:-1 group-title="-",4 El Nueve
 http://201.174.175.3:8000/play/a0e9/index.m3u8
 #EXTINF:-1 group-title="-",canal 9 transcode audio 
