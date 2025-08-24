@@ -204,6 +204,8 @@ http://64.76.229.95:2015/play/a00s/index.m3u8
 http://64.76.229.95:2015/play/a00d/index.m3u8
 #EXTINF:-1,FOX SPORT PREMIUM
 http://64.76.229.95:2015/play/a004/index.m3u8
+#EXTINF:-1, TVC D 2
+http://190.61.34.164:8000/play/a02v/index.m3u8
 #EXTINF:-1,ESPN Premium HD
 http://199.188.103.176:8000/play/a056/index.m3u8
 #EXTINF:-1,ESPN HD
