@@ -9,10 +9,14 @@ http://201.174.175.3:8000/play/a0w8/index.m3u8
 http://201.174.175.3:8000/play/a0vr/index.m3u8
 #EXTINF:-1,CANAL 2
 http://45.189.151.7:8000/play/a04f/index.m3u8
+#EXTINF:-1, HD TV CH2
+http://45.163.139.42:8000/play/a04x/index.m3u8
 #EXTINF:-1,CANAL IMAGEN TV
 http://45.189.151.7:8000/play/a04l/index.m3u8
 #EXTINF:-1,MAUSAN TV
 http://45.189.151.7:8000/play/a04m/index.m3u8
+#EXTINF:-1, Ch 4 HD
+http://45.163.139.42:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="-",Canal 4 HD ESA
 http://201.174.175.3:8000/play/a0wn/index.m3u8
 #EXTINF:-1 group-title="-",3 CANAL 5 HD
@@ -21,6 +25,8 @@ http://201.174.175.3:8000/play/a0m4/index.m3u8
 http://190.7.192.162:8001/play/s2
 #EXTINF:-1 group-title="-",7 Azteca 7
 http://201.174.175.3:8000/play/a0kl/index.m3u8
+#EXTINF:-1 Teletica HD
+http://45.163.139.42:8000/play/a02k/index.m3u8
 #EXTINF:-1,MMTV-CR 8.1
 http://190.7.192.164:8020/play/s40
 #EXTINF:-1,MMTV 8.2
