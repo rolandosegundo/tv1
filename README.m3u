@@ -11,6 +11,8 @@ http://201.174.175.3:8000/play/a0vr/index.m3u8
 http://45.189.151.7:8000/play/a04f/index.m3u8
 #EXTINF:-1, HD TV CH2
 http://45.163.139.42:8000/play/a04x/index.m3u8
+#EXTINF:-1, CANAL 2
+http://181.78.99.187:8000/play/a0qp/index.m3u8
 #EXTINF:-1,CANAL IMAGEN TV
 http://45.189.151.7:8000/play/a04l/index.m3u8
 #EXTINF:-1,MAUSAN TV
@@ -19,8 +21,10 @@ http://45.189.151.7:8000/play/a04m/index.m3u8
 http://45.163.139.42:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="-",Canal 4 HD ESA
 http://201.174.175.3:8000/play/a0wn/index.m3u8
-#EXTINF:-1 group-title="-",3 CANAL 5 HD
+#EXTINF:-1 group-title="-",3 CANAL 5 HD MX
 http://201.174.175.3:8000/play/a0m4/index.m3u8
+#EXTINF:-1 Canal 5 - HON
+http://181.78.99.187:8000/play/a03o/index.m3u8
 #EXTINF:-1,CANAL 6 HD
 http://190.7.192.162:8001/play/s2
 #EXTINF:-1 group-title="-",7 Azteca 7
@@ -39,6 +43,8 @@ http://201.174.175.3:8000/play/a0w6/index.m3u8
 http://201.174.175.3:8000/play/a0wr/index.m3u8
 #EXTINF:-1 group-title="-",Canal 10 HD - ESA
 http://201.174.175.3:8000/play/a0wm/index.m3u8
+#EXTINF:-1 Canal 12
+http://181.78.99.187:8000/play/a0nw/index.m3u8
 #EXTINF:-1,Latina HD
 http://199.188.103.176:8000/play/a0fj/index.m3u8
 #EXTINF:-1,NATIVA HD C/TV
@@ -67,6 +73,8 @@ http://199.188.103.176:8000/play/a06e/index.m3u8
 http://45.189.151.7:8000/play/a04p/index.m3u8
 #EXTINF:-1,CANAL 44
 http://45.189.151.7:8000/play/a04h/index.m3u8
+#EXTINF:-1, Telecadena 7/4
+http://181.78.99.187:8000/play/a07n/index.m3u8
 #EXTINF:-1,ENTRTENIMIENTO  
 #EXTINF:-1,A&E HD
 http://199.188.103.176:8000/play/a08x/index.m3u8
@@ -82,6 +90,8 @@ http://199.188.103.176:8000/play/a0fi/index.m3u8
 http://199.188.103.176:8000/play/a0ai/index.m3u8
 #EXTINF:-1,Paramount HD
 http://199.188.103.176:8000/play/a08t/index.m3u8
+#EXTINF:-1, TCS 5
+http://181.78.99.187:8000/play/a0qx/index.m3u8
 #EXTINF:-1,SOS ACTION  | FHD C/TV
 http://199.188.103.176:8000/play/a0fu/index.m3u8
 #EXTINF:-1,SOS ANIME C/TV
@@ -126,7 +136,9 @@ http://199.188.103.176:8000/play/a08u/index.m3u8
 http://199.188.103.176:8000/play/a08w/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://199.188.103.176:8000/play/a090/index.m3u8
-#EXTINF:-1,CINE
+#EXTINF:-1,CINE 
+#EXTINF:-1, Estrenos TV-River
+http://181.78.99.187:8000/play/a0rf/index.m3u8
 #EXTINF:-1,HBO HD
 http://199.188.103.176:8000/play/a09a/index.m3u8
 #EXTINF:-1,HBO Plus
@@ -162,6 +174,8 @@ http://199.188.103.176:8000/play/a050/index.m3u8
 #EXTINF:-1, RCN NOVELAS C/TV
 http://199.188.103.176:8000/play/a0fx/index.m3u8
 #EXTINF:-1,DEPORTES
+#EXTINF:-1, TUDN
+http://181.78.99.187:8000/play/a0r4/index.m3u8
 #EXTINF:-1 group-title="-",TUDN 59 - IPMOD
 http://186.33.0.101:4430/play/tudn2/index.m3u8
 #EXTINF:-1 group-title="-",TUDN-CH59
