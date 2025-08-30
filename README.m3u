@@ -1,675 +1,1308 @@
 #EXTM3U
-#EXTINF:-1,Las Estrellas HD
-http://199.188.103.176:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="-",1 Televisa Veracruz
-http://201.174.175.3:8000/play/a0e6/index.m3u8
-#EXTINF:-1 group-title="-",TELEVISA VERACRUZ TRANSCODE
-http://201.174.175.3:8000/play/a0w8/index.m3u8
-#EXTINF:-1 group-title="-",110 Univision HD
-http://201.174.175.3:8000/play/a0vr/index.m3u8
-#EXTINF:-1,CANAL 2
-http://45.189.151.7:8000/play/a04f/index.m3u8
-#EXTINF:-1, HD TV CH2
-http://45.163.139.42:8000/play/a04x/index.m3u8
-#EXTINF:-1, CANAL 2
-http://181.78.99.187:8000/play/a0qp/index.m3u8
-#EXTINF:-1,CANAL IMAGEN TV
-http://45.189.151.7:8000/play/a04l/index.m3u8
-#EXTINF:-1,MAUSAN TV
-http://45.189.151.7:8000/play/a04m/index.m3u8
-#EXTINF:-1, Ch 4 HD
-http://45.163.139.42:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="-",Canal 4 HD ESA
-http://201.174.175.3:8000/play/a0wn/index.m3u8
-#EXTINF:-1 group-title="-",3 CANAL 5 HD MX
-http://201.174.175.3:8000/play/a0m4/index.m3u8
-#EXTINF:-1 Canal 5 - HON
-http://181.78.99.187:8000/play/a03o/index.m3u8
-#EXTINF:-1,CANAL 6 HD
-http://190.7.192.162:8001/play/s2
-#EXTINF:-1 group-title="-",7 Azteca 7
-http://201.174.175.3:8000/play/a0kl/index.m3u8
-#EXTINF:-1 Teletica HD
-http://45.163.139.42:8000/play/a02k/index.m3u8
-#EXTINF:-1,MMTV-CR 8.1
-http://190.7.192.164:8020/play/s40
-#EXTINF:-1,MMTV 8.2
-http://190.7.192.164:8020/play/s41
-#EXTINF:-1 group-title="-",4 El Nueve
-http://201.174.175.3:8000/play/a0e9/index.m3u8
-#EXTINF:-1 group-title="-",canal 9 transcode audio 
-http://201.174.175.3:8000/play/a0w6/index.m3u8
-#EXTINF:-1 group-title="-",Canal 10 HD
-http://201.174.175.3:8000/play/a0wr/index.m3u8
-#EXTINF:-1 group-title="-",Canal 10 HD - ESA
-http://201.174.175.3:8000/play/a0wm/index.m3u8
-#EXTINF:-1 Canal 12
-http://181.78.99.187:8000/play/a0nw/index.m3u8
-#EXTINF:-1,Latina HD
-http://199.188.103.176:8000/play/a0fj/index.m3u8
-#EXTINF:-1,NATIVA HD C/TV
-http://199.188.103.176:8000/play/a0b9/index.m3u8
-#EXTINF:-1,101 RPP
-http://38.187.3.110:8000/play/a07o/index.m3u8
-#EXTINF:-1,102 Latina HD
-http://38.187.3.110:8000/play/a07u/index.m3u8
-#EXTINF:-1,103 Movistar Deportes
-http://38.187.3.110:8000/play/a0a3/index.m3u8
-#EXTINF:-1,104 America TV HD
-http://38.187.3.110:8000/play/a07t/index.m3u8
-#EXTINF:-1,105 Panamericana TV
-http://38.187.3.110:8000/play/a063/index.m3u8
-#EXTINF:-1,109 ATV
-http://38.187.3.110:8000/play/a064/index.m3u8
-#EXTINF:-1,110 Exitosa
-http://38.187.3.110:8000/play/a07p/index.m3u8
-#EXTINF:-1,129 Nativa
-http://38.187.3.110:8000/play/a07q/index.m3u8
-#EXTINF:-1,PBO C/TV
-http://199.188.103.176:8000/play/a0d1/index.m3u8
-#EXTINF:-1,Panamericana
-http://199.188.103.176:8000/play/a06e/index.m3u8
-#EXTINF:-1,TVT TABASCO
-http://45.189.151.7:8000/play/a04p/index.m3u8
-#EXTINF:-1,CANAL 44
-http://45.189.151.7:8000/play/a04h/index.m3u8
-#EXTINF:-1, Telecadena 7/4
-http://181.78.99.187:8000/play/a07n/index.m3u8
-#EXTINF:-1,ENTRTENIMIENTO  
-#EXTINF:-1,A&E HD
-http://199.188.103.176:8000/play/a08x/index.m3u8
-#EXTINF:-1,AMC HD
-http://199.188.103.176:8000/play/a099/index.m3u8
-#EXTINF:-1,ATV+ HD
-http://199.188.103.176:8000/play/a0cg/index.m3u8
-#EXTINF:-1,AXN HD
-http://199.188.103.176:8000/play/a095/index.m3u8
-#EXTINF:-1,America TV HD
-http://199.188.103.176:8000/play/a0fi/index.m3u8
-#EXTINF:-1,FX HD
-http://199.188.103.176:8000/play/a0ai/index.m3u8
-#EXTINF:-1,Paramount HD
-http://199.188.103.176:8000/play/a08t/index.m3u8
-#EXTINF:-1, TCS 5
-http://181.78.99.187:8000/play/a0qx/index.m3u8
-#EXTINF:-1,SOS ACTION  | FHD C/TV
-http://199.188.103.176:8000/play/a0fu/index.m3u8
-#EXTINF:-1,SOS ANIME C/TV
-http://199.188.103.176:8000/play/a0g0/index.m3u8
-#EXTINF:-1,SOS HORROR C/TV
-http://199.188.103.176:8000/play/a0g3/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://199.188.103.176:8000/play/a09v/index.m3u8
-#EXTINF:-1,TNT HD
-http://199.188.103.176:8000/play/a091/index.m3u8
-#EXTINF:-1,TNT Novelas HD
-http://199.188.103.176:8000/play/a0al/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://199.188.103.176:8000/play/a0ah/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://199.188.103.176:8000/play/a0ad/index.m3u8
-#EXTINF:-1,Warner Channel HD
-http://199.188.103.176:8000/play/a094/index.m3u8
-#EXTINF:-1,NIÑOS
-#EXTINF:-1,Cartoon Network HD
-http://199.188.103.176:8000/play/a09s/index.m3u8
-#EXTINF:-1,Disney HD
-http://199.188.103.176:8000/play/a04x/index.m3u8
-#EXTINF:-1,Disney Junior
-http://199.188.103.176:8000/play/a08j/index.m3u8
-#EXTINF:-1,Nick HD
-http://199.188.103.176:8000/play/a09p/index.m3u8
-#EXTINF:-1,Nick Jr
-http://199.188.103.176:8000/play/a05d/index.m3u8
-#EXTINF:-1,CULTURA 
-#EXTINF:-1,Discovery Channel  HD
-http://199.188.103.176:8000/play/a08v/index.m3u8
-#EXTINF:-1,Discovery Kids
-http://199.188.103.176:8000/play/a0ao/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://199.188.103.176:8000/play/a08l/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://199.188.103.176:8000/play/a0aj/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://199.188.103.176:8000/play/a08u/index.m3u8
-#EXTINF:-1,History Channel HD
-http://199.188.103.176:8000/play/a08w/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://199.188.103.176:8000/play/a090/index.m3u8
-#EXTINF:-1,CINE 
-#EXTINF:-1, Estrenos TV-River
-http://181.78.99.187:8000/play/a0rf/index.m3u8
-#EXTINF:-1,HBO HD
-http://199.188.103.176:8000/play/a09a/index.m3u8
-#EXTINF:-1,HBO Plus
-http://199.188.103.176:8000/play/a0ev/index.m3u8
-#EXTINF:-1,HBO Signature
-http://199.188.103.176:8000/play/a06p/index.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://199.188.103.176:8000/play/a059/index.m3u8
-#EXTINF:-1,CINE FAMILIAR HD C/TV
-http://199.188.103.176:8000/play/a0fr/index.m3u8
-#EXTINF:-1,CINE HISPANO HD C/TV
-http://199.188.103.176:8000/play/a0fs/index.m3u8
-#EXTINF:-1,CINE PREMIUN HD C/TV
-http://199.188.103.176:8000/play/a0ft/index.m3u8
-#EXTINF:-1,Cinecanal HD
-http://199.188.103.176:8000/play/a092/index.m3u8
-#EXTINF:-1,Cinemax HD
-http://199.188.103.176:8000/play/a08m/index.m3u8
-#EXTINF:-1,Golden HD
-http://199.188.103.176:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="-",132 Golden Premiere 2 HD
-http://201.174.175.3:8000/play/a0q9/index.m3u8
-#EXTINF:-1 group-title="-",133 Golden Premiere HD
-http://201.174.175.3:8000/play/a0q8/index.m3u8
-#EXTINF:-1,Sony HD
-http://199.188.103.176:8000/play/a093/index.m3u8
-#EXTINF:-1,Space HD
-http://199.188.103.176:8000/play/a097/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://199.188.103.176:8000/play/a0fh/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://199.188.103.176:8000/play/a050/index.m3u8
-#EXTINF:-1, RCN NOVELAS C/TV
-http://199.188.103.176:8000/play/a0fx/index.m3u8
-#EXTINF:-1,DEPORTES
-#EXTINF:-1, TUDN
-http://181.78.99.187:8000/play/a0r4/index.m3u8
-#EXTINF:-1 group-title="-",TUDN 59 - IPMOD
-http://186.33.0.101:4430/play/tudn2/index.m3u8
-#EXTINF:-1 group-title="-",TUDN-CH59
-http://186.33.0.101:4430/play/tudn/index.m3u8
-#EXTINF:-1 group-title="-",Canal 65
-http://186.33.0.101:4430/play/canalseiscinco/index.m3u8
-#EXTINF:-1 group-title="-",11 AZ Deportes
-http://201.174.175.3:8000/play/a0nr/index.m3u8
-#EXTINF:-1 group-title="-",69 ESPN HD
-http://201.174.175.3:8000/play/a0vh/index.m3u8
-#EXTINF:-1 group-title="-",70 ESPN 2 HD
-http://201.174.175.3:8000/play/a0vi/index.m3u8
-#EXTINF:-1 group-title="-",71 ESPN 3 HD
-http://201.174.175.3:8000/play/a0vj/index.m3u8
-#EXTINF:-1 group-title="-",72 ESPN 4
-http://201.174.175.3:8000/play/a0vz/index.m3u8
-#EXTINF:-1 group-title="-",73 ESPN 5 HD
-http://201.174.175.3:8000/play/a0ve/index.m3u8
-#EXTINF:-1 group-title="-",74 ESPN 6 HD
-http://201.174.175.3:8000/play/a0vk/index.m3u8
-#EXTINF:-1,FOX SPORT  
-http://64.76.229.95:2015/play/a00h/index.m3u8
-#EXTINF:-1,FOX SPORT 2
-http://64.76.229.95:2015/play/a00s/index.m3u8
-#EXTINF:-1,FOX SPORT 3  
-http://64.76.229.95:2015/play/a00d/index.m3u8
-#EXTINF:-1,FOX SPORT PREMIUM
-http://64.76.229.95:2015/play/a004/index.m3u8
-#EXTINF:-1, TVC D 2
-http://190.61.34.164:8000/play/a02v/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://199.188.103.176:8000/play/a056/index.m3u8
-#EXTINF:-1,ESPN HD
-http://199.188.103.176:8000/play/a04y/index.m3u8
-#EXTINF:-1,ESPN HD
-http://199.188.103.176:8000/play/a051/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://199.188.103.176:8000/play/a0ff/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://199.188.103.176:8000/play/a09n/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://199.188.103.176:8000/play/a0am/index.m3u8
-#EXTINF:-1,ESPN 4HD
-http://199.188.103.176:8000/play/a098/index.m3u8
-#EXTINF:-1,ESPN 5HD
-http://199.188.103.176:8000/play/a0ae/index.m3u8
-#EXTINF:-1,ESPN 6HD
-http://199.188.103.176:8000/play/a08s/index.m3u8
-#EXTINF:-1,ESPN 7HD
-http://199.188.103.176:8000/play/a0af/index.m3u8
-#EXTINF:-1,DIRECTIVI 2 C/TV
-http://199.188.103.176:8000/play/a0g1/index.m3u8
-#EXTINF:-1,DIRECTV+ C/TV
-http://199.188.103.176:8000/play/a0bi/index.m3u8
-#EXTINF:-1,127 L1MAX
-http://38.187.3.110:8000/play/a069/index.m3u8
-#EXTINF:-1,128 D Sport HD
-http://38.187.3.110:8000/play/a04m/index.m3u8
-#EXTINF:-1,LIGA  1  C/TV
-http://199.188.103.176:8000/play/a002/index.m3u8
-#EXTINF:-1,LIGA 1 MAX  C/TV
-http://199.188.103.176:8000/play/a003/index.m3u8
-#EXTINF:-1,TNT Sports Premiun HD
-http://199.188.103.176:8000/play/a09i/index.m3u8
-#EXTINF:-1,NBA
-http://64.76.229.95:2015/play/a002/index.m3u8
-#EXTINF:-1,NFL NETWORKS  
-http://64.76.229.95:2015/play/a018/index.m3u8
-
-
-#EXTINF:-1,MUCICA
-#EXTINF:-1,MI CUMBIA TV C/TV
-http://199.188.103.176:8000/play/a0de/index.m3u8
-#EXTINF:-1,MI MUSICA REGUETON C/TV
-http://199.188.103.176:8000/play/a0bb/index.m3u8
-#EXTINF:-1,MI MUSICA ROMANTICA C/TV
-http://199.188.103.176:8000/play/a0bk/index.m3u8
-#EXTINF:-1,MI MUSICA SALSA C/TV
-http://199.188.103.176:8000/play/a048/index.m3u8
-#EXTINF:-1,MTV HD
-http://199.188.103.176:8000/play/a09b/index.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://199.188.103.176:8000/play/a0ak/index.m3u8
-#EXTINF:-1 group-title="-",10 BETHEL TV
-http://187.102.211.200:48001/play/a09z
-#EXTINF:-1 group-title="-",1001 Cine Premiun HD
-http://187.102.211.200:48001/play/a01g
-#EXTINF:-1 group-title="-",1007 Exitosa HD
-http://187.102.211.200:48001/play/a09u
-#EXTINF:-1 group-title="-",1013 Telenovelas HD
-http://187.102.211.200:48001/play/a052
-#EXTINF:-1 group-title="-",1014 Gol Peru HD
-http://187.102.211.200:48001/play/a05b
-#EXTINF:-1 group-title="-",1015 FreeTV Extreme HD
-http://187.102.211.200:48001/play/a05s
-#EXTINF:-1 group-title="-",1016 FreeTV Music HD
-http://187.102.211.200:48001/play/a01k
-#EXTINF:-1 group-title="-",1023 HogarTV HD
-http://187.102.211.200:48001/play/a09b
-#EXTINF:-1 group-title="-",1024 Kanal Drama HD
-http://187.102.211.200:48001/play/a0b8
-#EXTINF:-1 group-title="-",1041 Fox Sports HD
-http://187.102.211.200:48001/play/a0ax
-#EXTINF:-1 group-title="-",1042 Fox Sports 2 HD
-http://187.102.211.200:48001/play/a0ay
-#EXTINF:-1 group-title="-",1043 Fox Sports 3 HD 
-http://187.102.211.200:48001/play/a0az
-#EXTINF:-1 group-title="-",1049 Distrito Comedia
-http://187.102.211.200:48001/play/a01m
-#EXTINF:-1 group-title="-",1051 Folklore TV
-http://187.102.211.200:48001/play/a05j
-#EXTINF:-1 group-title="-",1068 Studio Universal HD
-http://187.102.211.200:48001/play/a0b7
-#EXTINF:-1 group-title="-",1128 ESPN 1128
-http://187.102.211.200:48001/play/a0ba
-#EXTINF:-1 group-title="-",1128 ESPN HD
-http://187.102.211.200:48001/play/a0b0
-#EXTINF:-1 group-title="-",1129 ESPN 4 HD
-http://187.102.211.200:48001/play/a0b1
-#EXTINF:-1 group-title="-",1130 ESPN 1 TCD
-http://187.102.211.200:48001/play/a09m
-#EXTINF:-1 group-title="-",1130 ESPN 7 HD
-http://187.102.211.200:48001/play/a0b2
-#EXTINF:-1 group-title="-",1206 Canal Regional HD
-http://187.102.211.200:48001/play/a01i
-#EXTINF:-1 group-title="-",1206 WesTV
-http://187.102.211.200:48001/play/a06j
-#EXTINF:-1 group-title="-",1277 Discovery Turbo
-http://187.102.211.200:48001/play/a08z
-#EXTINF:-1 group-title="-",1283 Cinemax HD
-http://187.102.211.200:48001/play/a090
-#EXTINF:-1 group-title="-",1614 Telenovelas
-http://187.102.211.200:48001/play/a08i
-#EXTINF:-1 group-title="-",1625 USA
-http://187.102.211.200:48001/play/a08n
-#EXTINF:-1 group-title="-",1626 Golden Edge
-http://187.102.211.200:48001/play/a0a7
-#EXTINF:-1 group-title="-",1630 De Pelicula
-http://187.102.211.200:48001/play/a09l
-#EXTINF:-1 group-title="-",1664 DW Espanol
-http://187.102.211.200:48001/play/a0aw
-#EXTINF:-1 group-title="-",1708 Studio Universal HD
-http://187.102.211.200:48001/play/a0a1
-#EXTINF:-1 group-title="-",1709 PBO HD
-http://187.102.211.200:48001/play/a0a2
-#EXTINF:-1 group-title="-",1730 Oromar TV
-http://187.102.211.200:48001/play/a041
-#EXTINF:-1 group-title="-",1823 ESPN 6 HD
-http://187.102.211.200:48001/play/a0b4
-#EXTINF:-1 group-title="-",1843 El Gourmet HD
-http://187.102.211.200:48001/play/a08t
-#EXTINF:-1 group-title="-",1853 ESPN 2 HD
-http://187.102.211.200:48001/play/a0b3
-#EXTINF:-1 group-title="-",1854 UNIVERSAL CHANNEL HD
-http://187.102.211.200:48001/play/a0a6
-#EXTINF:-1 group-title="-",1861 ESPN 5 HD
-http://187.102.211.200:48001/play/a0b5
-#EXTINF:-1 group-title="-",1864 ESPN 7 HD
-http://187.102.211.200:48001/play/a09g
-#EXTINF:-1 group-title="-",1890 ESPN HD
-http://187.102.211.200:48001/play/a03q
-#EXTINF:-1 group-title="-",1991 Las Estrellas HD
-http://187.102.211.200:48001/play/a0a5
-#EXTINF:-1 group-title="-",2856 TNT Novelas HD
-http://187.102.211.200:48001/play/a09w
-#EXTINF:-1 group-title="-",2866 ESPN 3 HD
-http://187.102.211.200:48001/play/a0b6
-#EXTINF:-1 group-title="-",4409 Santa RosaTV
-http://187.102.211.200:48001/play/a064
-#EXTINF:-1 group-title="-",5602 RT
-http://187.102.211.200:48001/play/a04m
-#EXTINF:-1 group-title="-",819 Disney HD
-http://187.102.211.200:48001/play/a06z
-#EXTINF:-1 group-title="-",850 Cinecanal HD
-http://187.102.211.200:48001/play/a071
-#EXTINF:-1 group-title="-",881 HBO HD
-http://187.102.211.200:48001/play/a072
-#EXTINF:-1 group-title="-",9_1019 TeleLima HD
-http://187.102.211.200:48001/play/a04n
-#EXTINF:-1 group-title="-",AZ Cinema HD
-http://187.102.211.200:48001/play/a03g
-#EXTINF:-1 group-title="-",Animotion HD
-http://187.102.211.200:48001/play/a05q
-#EXTINF:-1 group-title="-",BitMe HD
-http://187.102.211.200:48001/play/a05i
-#EXTINF:-1 group-title="-",ESPN Premium HD
-http://187.102.211.200:48001/play/a09s
-#EXTINF:-1 group-title="-",FMH Family HD
-http://187.102.211.200:48001/play/a061
-#EXTINF:-1 group-title="-",FMH Kids HD
-http://187.102.211.200:48001/play/a062
-#EXTINF:-1 group-title="-",FMH Movies HD
-http://187.102.211.200:48001/play/a063
-#EXTINF:-1 group-title="-",HBO Family HD
-http://187.102.211.200:48001/play/a0b9
-#EXTINF:-1 group-title="-",HBO POP HD
-http://187.102.211.200:48001/play/a0a0
-#EXTINF:-1 group-title="-",Liga1 HD 
-http://187.102.211.200:48001/play/a069
-#EXTINF:-1 group-title="-",Liga1Max HD
-http://187.102.211.200:48001/play/a01f
-#EXTINF:-1 group-title="-",Mimusica Reagueton
-http://187.102.211.200:48001/play/a05r
-#EXTINF:-1 group-title="-",NATIVA Stream
-http://187.102.211.200:48001/play/a06i
-#EXTINF:-1 group-title="-",Pucalpa TV
-http://187.102.211.200:48001/play/a05g
-#EXTINF:-1 group-title="-",RPP
-http://187.102.211.200:48001/play/a01e
-#EXTINF:-1 group-title="-",TeleHit Musica HD
-http://187.102.211.200:48001/play/a05a
-#EXTINF:-1 group-title="-",TyC Sports Argentina HD
-http://187.102.211.200:48001/play/a06x
-#EXTINF:-1 group-title="-",UDP_TUNER_ATV Sur HD
-http://187.102.211.200:48001/play/a09t
-#EXTINF:-1 group-title="-",UDP_TUNER_America
-http://187.102.211.200:48001/play/a02u
-#EXTINF:-1 group-title="-",UDP_TUNER_Bethel
-http://187.102.211.200:48001/play/a055
-#EXTINF:-1 group-title="-",UDP_TUNER_La Tele HD
-http://187.102.211.200:48001/play/a02x
-#EXTINF:-1 group-title="-",UDP_TUNER_Latina
-http://187.102.211.200:48001/play/a02v
-#EXTINF:-1 group-title="-",UDP_TV Peru
-http://187.102.211.200:48001/play/a034
-#EXTINF:-1 group-title="-",UDP_TX_Global TCD
-http://187.102.211.200:48001/play/a09j
-#EXTINF:-1 group-title="-",UDP_UP_Exitosa
-http://187.102.211.200:48001/play/a030
-#EXTINF:-1 group-title="-",UDP_UP_Global
-http://187.102.211.200:48001/play/a033
-#EXTINF:-1 group-title="-",UDP_UP_Panamericana
-http://187.102.211.200:48001/play/a02w
-#EXTINF:-1 group-title="-",UDP_USMP
-http://187.102.211.200:48001/play/a031
-#EXTINF:-1 group-title="-",UDP_iPe
-http://187.102.211.200:48001/play/a065
-#EXTINF:-1 group-title="-",Antena Regional
-http://38.199.6.67:2400/play/antenaregional/index.m3u8
-#EXTINF:-1 group-title="-",CablelaserTV
-http://38.199.6.67:2400/play/a001/index.m3u8
-#EXTINF:-1 group-title="-",ContinentalTV
-http://38.199.6.67:2400/play/continental/index.m3u8
-#EXTINF:-1 group-title="-",Dtv Sports
-http://38.199.6.67:2400/play/a00l/index.m3u8
-#EXTINF:-1 group-title="-",EuroChannel
-http://38.199.6.67:2400/play/a00y/index.m3u8
-#EXTINF:-1 group-title="-",FOX SPORTS 2 HD
-http://38.199.6.67:2400/play/a00d/index.m3u8
-#EXTINF:-1 group-title="-",FOX SPORTS HD
-http://38.199.6.67:2400/play/a00c/index.m3u8
-#EXTINF:-1 group-title="-",Fox Sports 3 HD
-http://38.199.6.67:2400/play/a00e/index.m3u8
-#EXTINF:-1 group-title="-",FreeTV Hits
-http://38.199.6.67:2400/play/a015/index.m3u8
-#EXTINF:-1 group-title="-",La Bocina Latina
-http://38.199.6.67:2400/play/a016/index.m3u8
-#EXTINF:-1 group-title="-",LaserMixCumbia
-http://38.199.6.67:2400/play/a005/index.m3u8
-#EXTINF:-1 group-title="-",LaserMixHuayño
-http://38.199.6.67:2400/play/a006/index.m3u8
-#EXTINF:-1 group-title="-",OrionTV
-http://38.199.6.67:2400/play/orion/index.m3u8
-#EXTINF:-1 group-title="-",RCR PERU
-http://38.199.6.67:2400/play/a003/index.m3u8
-#EXTINF:-1 group-title="-",SUDAMEROCANA
-http://38.199.6.67:2400/play/a00a/index.m3u8
-#EXTINF:-1 group-title="-",TELEHIT
-http://38.199.6.67:2400/play/a00u/index.m3u8
-#EXTINF:-1 group-title="-",Teleselva
-http://38.199.6.67:2400/play/a00t/index.m3u8
-#EXTINF:-1 group-title="-",UNITEL HYO
-http://38.199.6.67:2400/play/a004/index.m3u8
-#EXTINF:-1 group-title="-",eventos
-http://38.199.6.67:2400/play/a00o/index.m3u8
-#EXTINF:-1 group-title="-",eventos 2
-http://38.199.6.67:2400/play/a00r/index.m3u8
-#EXTINF:-1 group-title="-",eventos para todos
-http://38.199.6.67:2400/play/a00q/index.m3u8
-#EXTINF:-1 group-title="-",tin tv
-http://38.199.6.67:2400/play/a011/index.m3u8
-#EXTINF:-1 group-title="-",trace brazuca hd
-http://38.199.6.67:2400/play/a010/index.m3u8
-#EXTINF:-1 group-title="-",trace sports starts
-http://38.199.6.67:2400/play/a00z/index.m3u8
-#EXTINF:-1 group-title="-",travel xp hd
-http://38.199.6.67:2400/play/a013/index.m3u8
-#EXTINF:-1 group-title="-",tyc
-http://38.199.6.67:2400/play/a00p/index.m3u8
-#EXTINF:-1 group-title="-",zoomoo
-http://38.199.6.67:2400/play/a00w/index.m3u8
-#EXTINF:-1 group-title="-", (HCO) TELERUMBA
-http://38.224.175.2:8000/play/a0mb/index.m3u8
-#EXTINF:-1 group-title="-",(HCO) BETHEL TV 
-http://38.224.175.2:8000/play/a0tp/index.m3u8
-#EXTINF:-1 group-title="-",(HCO) CNH HUANUCO
-http://38.224.175.2:8000/play/a0ob/index.m3u8
-#EXTINF:-1 group-title="-",(HCO) CONTINENTAL
-http://38.224.175.2:8000/play/a0or/index.m3u8
-#EXTINF:-1 group-title="-",(HCO) REAL TV
-http://38.224.175.2:8000/play/a0ni/index.m3u8
-#EXTINF:-1 group-title="-",(HCO) TV ORION
-http://38.224.175.2:8000/play/a0nh/index.m3u8
-#EXTINF:-1 group-title="-",1 TV URANIO
-http://38.224.175.2:8000/play/a0kn/index.m3u8
-#EXTINF:-1 group-title="-",13 C
-http://38.224.175.2:8000/play/a0u5/index.m3u8
-#EXTINF:-1 group-title="-",A&E
-http://38.224.175.2:8000/play/a0p1/index.m3u8
-#EXTINF:-1 group-title="-",AMAZONICA TV
-http://38.224.175.2:8000/play/a0m4/index.m3u8
-#EXTINF:-1 group-title="-",AMC
-http://38.224.175.2:8000/play/a0pe/index.m3u8
-#EXTINF:-1 group-title="-",ATV
-http://38.224.175.2:8000/play/a0me/index.m3u8
-#EXTINF:-1 group-title="-",ATV +
-http://38.224.175.2:8000/play/a0nm/index.m3u8
-#EXTINF:-1 group-title="-",AXN
-http://38.224.175.2:8000/play/a0p0/index.m3u8
-#EXTINF:-1 group-title="-",AZ CORAZON
-http://38.224.175.2:8000/play/a0ki/index.m3u8
-#EXTINF:-1 group-title="-",America TV HD
-http://38.224.175.2:8000/play/a0oq/index.m3u8
-#EXTINF:-1 group-title="-",Animal Planet
-http://38.224.175.2:8000/play/a0p7/index.m3u8
-#EXTINF:-1 group-title="-",BETHEL TV
-http://38.224.175.2:8000/play/a0bv/index.m3u8
-#EXTINF:-1 group-title="-",BETHEL TV
-http://38.224.175.2:8000/play/a0ty/index.m3u8
-#EXTINF:-1 group-title="-",BNB DIGITAL
-http://38.224.175.2:8000/play/a0f2/index.m3u8
-#EXTINF:-1 group-title="-",Baby TV
-http://38.224.175.2:8000/play/a0u3/index.m3u8
-#EXTINF:-1 group-title="-",CANAL LUZ
-http://38.224.175.2:8000/play/a0nl/index.m3u8
-#EXTINF:-1 group-title="-",CGNT ESPA
-http://38.224.175.2:8000/play/a0ti/index.m3u8
-#EXTINF:-1 group-title="-",CHV HD
-http://38.224.175.2:8000/play/a0sa/index.m3u8
-#EXTINF:-1 group-title="-",CNN Espaæol
-http://38.224.175.2:8000/play/a0u7/index.m3u8
-#EXTINF:-1 group-title="-",CONECTADOS TV
-http://38.224.175.2:8000/play/a0a5/index.m3u8
-#EXTINF:-1 group-title="-",Canal N
-http://38.224.175.2:8000/play/a0rz/index.m3u8
-#EXTINF:-1 group-title="-",CanalB
-http://38.224.175.2:8000/play/a0b1/index.m3u8
-#EXTINF:-1 group-title="-",Caracol HD
-http://38.224.175.2:8000/play/a0no/index.m3u8
-#EXTINF:-1 group-title="-",Cartoon Network
-http://38.224.175.2:8000/play/a0tb/index.m3u8
-#EXTINF:-1 group-title="-",Cinemax HD
-http://38.224.175.2:8000/play/a0u8/index.m3u8
-#EXTINF:-1 group-title="-",Comedy Central
-http://38.224.175.2:8000/play/a0p2/index.m3u8
-#EXTINF:-1 group-title="-",DHE HD
-http://38.224.175.2:8000/play/a0jp/index.m3u8
-#EXTINF:-1 group-title="-",DSPORTS 1
-http://38.224.175.2:8000/play/a0l4/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Channel  HD
-http://38.224.175.2:8000/play/a0u1/index.m3u8
-#EXTINF:-1 group-title="-",Discovery H&H HD
-http://38.224.175.2:8000/play/a0mt/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Kids HD
-http://38.224.175.2:8000/play/a0tx/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Theater HD
-http://38.224.175.2:8000/play/a0nv/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Turbo
-http://38.224.175.2:8000/play/a0u9/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
-http://38.224.175.2:8000/play/a0np/index.m3u8
-#EXTINF:-1 group-title="-",EWTN
-http://38.224.175.2:8000/play/a0u4/index.m3u8
-#EXTINF:-1 group-title="-",EXITOSA
-http://38.224.175.2:8000/play/a0a4/index.m3u8
-#EXTINF:-1 group-title="-",El Gourmet
-http://38.224.175.2:8000/play/a0tj/index.m3u8
-#EXTINF:-1 group-title="-",Food Network HD
-http://38.224.175.2:8000/play/a0th/index.m3u8
-#EXTINF:-1 group-title="-",GLOBAL
-http://38.224.175.2:8000/play/a0dx/index.m3u8
-#EXTINF:-1 group-title="-",GOL  PERU
-http://38.224.175.2:8000/play/a0pi/index.m3u8
-#EXTINF:-1 group-title="-",HBO
-http://38.224.175.2:8000/play/a0tr/index.m3u8
-#EXTINF:-1 group-title="-",HBO Family
-http://38.224.175.2:8000/play/a0pf/index.m3u8
-#EXTINF:-1 group-title="-",HBO POP HD
-http://38.224.175.2:8000/play/a0ts/index.m3u8
-#EXTINF:-1 group-title="-",HBO Plus
-http://38.224.175.2:8000/play/a0pz/index.m3u8
-#EXTINF:-1 group-title="-",HBO XTREME
-http://38.224.175.2:8000/play/a0pg/index.m3u8
-#EXTINF:-1 group-title="-",HEI HD
-http://38.224.175.2:8000/play/a0t7/index.m3u8
-#EXTINF:-1 group-title="-",History 2
-http://38.224.175.2:8000/play/a0tk/index.m3u8
-#EXTINF:-1 group-title="-",History Channel
-http://38.224.175.2:8000/play/a0ta/index.m3u8
-#EXTINF:-1 group-title="-",Hola TV
-http://38.224.175.2:8000/play/a0pk/index.m3u8
-#EXTINF:-1 group-title="-",ID HD
-http://38.224.175.2:8000/play/a0te/index.m3u8
-#EXTINF:-1 group-title="-",KANAL DE DRAMA
-http://38.224.175.2:8000/play/a0sq/index.m3u8
-#EXTINF:-1 group-title="-",KARIBENA
-http://38.224.175.2:8000/play/a0hw/index.m3u8
-#EXTINF:-1 group-title="-",LIGA 1 MAX
-http://38.224.175.2:8000/play/a0l7/index.m3u8
-#EXTINF:-1 group-title="-",Las Estrellas
-http://38.224.175.2:8000/play/a0ow/index.m3u8
-#EXTINF:-1 group-title="-",Latina HD
-http://38.224.175.2:8000/play/a0ro/index.m3u8
-#EXTINF:-1 group-title="-",MTV
-http://38.224.175.2:8000/play/a0pb/index.m3u8
-#EXTINF:-1 group-title="-",Milenial TV
-http://38.224.175.2:8000/play/a0l0/index.m3u8
-#EXTINF:-1 group-title="-",Movistar Deportes
-http://38.224.175.2:8000/play/a0r4/index.m3u8
-#EXTINF:-1 group-title="-",National Geographic
-http://38.224.175.2:8000/play/a0td/index.m3u8
-#EXTINF:-1 group-title="-",Nativa tv
-http://38.224.175.2:8000/play/a08x/index.m3u8
-#EXTINF:-1 group-title="-",Nick HD
-http://38.224.175.2:8000/play/a0tt/index.m3u8
-#EXTINF:-1 group-title="-",Panamericana
-http://38.224.175.2:8000/play/a0m2/index.m3u8
-#EXTINF:-1 group-title="-",Paramount HD
-http://38.224.175.2:8000/play/a0nf/index.m3u8
-#EXTINF:-1 group-title="-",Pasiones HD
-http://38.224.175.2:8000/play/a0st/index.m3u8
-#EXTINF:-1 group-title="-",RCN HD
-http://38.224.175.2:8000/play/a0nn/index.m3u8
-#EXTINF:-1 group-title="-",RT Noticias
-http://38.224.175.2:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="-",SANJUANERA TV
-http://38.224.175.2:8000/play/a0kj/index.m3u8
-#EXTINF:-1 group-title="-",SELVA TV
-http://38.224.175.2:8000/play/a0m5/index.m3u8
-#EXTINF:-1 group-title="-",SUMAC TV
-http://38.224.175.2:8000/play/a0od/index.m3u8
-#EXTINF:-1 group-title="-",Sony
-http://38.224.175.2:8000/play/a0oz/index.m3u8
-#EXTINF:-1 group-title="-",Space HD
-http://38.224.175.2:8000/play/a0u2/index.m3u8
-#EXTINF:-1 group-title="-",Stingray Concerts HD
-http://38.224.175.2:8000/play/a0qx/index.m3u8
-#EXTINF:-1 group-title="-",Studio Universal HD
-http://38.224.175.2:8000/play/a0sn/index.m3u8
-#EXTINF:-1 group-title="-",Sun Channel
-http://38.224.175.2:8000/play/a0pd/index.m3u8
-#EXTINF:-1 group-title="-",TNT HD
-http://38.224.175.2:8000/play/a0iz/index.m3u8
-#EXTINF:-1 group-title="-",TNT NOVELAS
-http://38.224.175.2:8000/play/a0sr/index.m3u8
-#EXTINF:-1 group-title="-",TNT Series HD
-http://38.224.175.2:8000/play/a0nw/index.m3u8
-#EXTINF:-1 group-title="-",TNT Sports Premiun HD
-http://38.224.175.2:8000/play/a0rb/index.m3u8
-#EXTINF:-1 group-title="-",TV PERU
-http://38.224.175.2:8000/play/a0dt/index.m3u8
-#EXTINF:-1 group-title="-",Telemundo
-http://38.224.175.2:8000/play/a0fp/index.m3u8
-#EXTINF:-1 group-title="-",Telenovelas
-http://38.224.175.2:8000/play/a0tl/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
-http://38.224.175.2:8000/play/a0m7/index.m3u8
-#EXTINF:-1 group-title="-",VVD CINECANAL
-http://38.224.175.2:8000/play/a0t0/index.m3u8
-#EXTINF:-1 group-title="-",VVD DISNEY CHANNEL
-http://38.224.175.2:8000/play/a0sx/index.m3u8
-#EXTINF:-1 group-title="-",VVD DISNEY JUNIOR
-http://38.224.175.2:8000/play/a0tg/index.m3u8
-#EXTINF:-1 group-title="-",VVD ESPN 1
-http://38.224.175.2:8000/play/a0t6/index.m3u8
-#EXTINF:-1 group-title="-",VVD ESPN 2
-http://38.224.175.2:8000/play/a0t5/index.m3u8
-#EXTINF:-1 group-title="-",VVD ESPN 3
-http://38.224.175.2:8000/play/a0t4/index.m3u8
-#EXTINF:-1 group-title="-",VVD ESPN 4
-http://38.224.175.2:8000/play/a0t3/index.m3u8
-#EXTINF:-1 group-title="-",VVD ESPN 5
-http://38.224.175.2:8000/play/a0t2/index.m3u8
-#EXTINF:-1 group-title="-",VVD ESPN 6
-http://38.224.175.2:8000/play/a0t1/index.m3u8
-#EXTINF:-1 group-title="-",VVD ESPN 7
-http://38.224.175.2:8000/play/a0l5/index.m3u8
-#EXTINF:-1 group-title="-",VVD FX 
-http://38.224.175.2:8000/play/a0sz/index.m3u8
-#EXTINF:-1 group-title="-",VVD NAT GEO CABLE MAX
-http://38.224.175.2:8000/play/a0su/index.m3u8
-#EXTINF:-1 group-title="-",VVD STAR CHANNEL
-http://38.224.175.2:8000/play/a0sy/index.m3u8
-#EXTINF:-1 group-title="-",WILLAx
-http://38.224.175.2:8000/play/a082/index.m3u8
-#EXTINF:-1 group-title="-",Warner Channel
-http://38.224.175.2:8000/play/a0u0/index.m3u8
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1,01 | LIGA MX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTpfQjYYe_XG1-iH-mm7y0giLZrp2_psrjcEfwX4b8lu/ts
+#EXTINF:-1,MX | CANAL DE LAS ESTRELLAS OP1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfTPUiSn4CLVA7F6fphHfrFcxKRLpwba2NyAWOuSx_5x/ts
+#EXTINF:-1,MX | CANAL DE LAS ESTRELLAS OP2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR68PZNAIda36esvmxYDa6RPbmUtl2z-LBhFQFuuILnx/ts
+#EXTINF:-1,MX | CANAL DE LAS ESTRELLAS OP3
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR68PZNAIda36esvmxYDa6R_85krbtT58LISZwZ59tYY/ts
+#EXTINF:-1,MX | AZTECA UNO OP1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZeuD3tMBy1wHFGvYZolw5NkqQABCuQQe2EXeGPOzk8f/ts
+#EXTINF:-1,MX | AZTECA UNO OP2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZeuD3tMBy1wHFGvYZolw5OGNWfq3wHfNlLeug-yRIvM/ts
+#EXTINF:-1,MX | AZTECA UNO OP3
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYbMUm9dcJJeU4d_teFSIcI5AT0INsKJ_3aiznOCe_Eb/ts
+#EXTINF:-1,MX | CANAL 5+ OP1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfTPUiSn4CLVA7F6fphHfrHG7sKz1UE6kK5hs4qrnEIm/ts
+#EXTINF:-1,MX | CANAL 5+ OP2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldsxlMXZOS5bM5Ncg7Kx4BzfRSYn0jgSo90WH8hVD-eS/ts
+#EXTINF:-1,MX | AZTECA 7 OP1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfTPUiSn4CLVA7F6fphHfrEsC14OxbmEQo_xDvA5-gia/ts
+#EXTINF:-1,MX | AZTECA 7 OP2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldsxlMXZOS5bM5Ncg7Kx4Bz-dJEzfGPQo-HVRtgJNuFZ/ts
+#EXTINF:-1,MX | AZTECA 7 OP3
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldsxlMXZOS5bM5Ncg7Kx4BwfAttbvGqY_ttVDusd3fT1/ts
+#EXTINF:-1,MX | IMAGEN TELEVISION OP1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR68PZNAIda36esvmxYDa6QDN0ccmS-a4ImIerP5Zpqc/ts
+#EXTINF:-1,MX | IMAGEN TELEVISION OP2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldsxlMXZOS5bM5Ncg7Kx4BxuYOMInbcIRGUbee6FRSbi/ts
+#EXTINF:-1,MX | FORO TV OP1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR68PZNAIda36esvmxYDa6QmnrwTaDZ0qa5Oa7De9Tkf/ts
+#EXTINF:-1,MX | ADN 40 OP1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlX2TvcAMh4JN8Rs25a9QZiyK2vJgcsym-r8VJMSdHKAN/ts
+#EXTINF:-1,MX | ADN 40 OP2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRQRw8sPMhYECPMkhwm_cIF8j7Q6andheTSlAYtMNdJQ/ts
+#EXTINF:-1,MX | NU9VE OP1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldsxlMXZOS5bM5Ncg7Kx4BzpPZMnq1Zb1-41GfyFgC9_/ts
+#EXTINF:-1,MX | NU9VE OP2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldsxlMXZOS5bM5Ncg7Kx4Bx6MG8OXGsrnKuyC6pXLwEU/ts
+#EXTINF:-1,MX | DISTRITO COMEDIA OP1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZeuD3tMBy1wHFGvYZolw5NF4Zj48cIJuvwgJAF-zGCV/ts
+#EXTINF:-1,MX | DISTRITO COMEDIA OP2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRQRw8sPMhYECPMkhwm_cIFxNBrzx3xAq8uL4YEnTsmR/ts
+#EXTINF:-1,MX | DISTRITO COMEDIA OP3
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRQRw8sPMhYECPMkhwm_cIG6KyP8rIeI7CPi0Li_9GV6/ts
+#EXTINF:-1,MX | UNICABLE OP1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlX2TvcAMh4JN8Rs25a9QZiwIi-xXAtambuPD82HjXnNs/ts
+#EXTINF:-1,MX | UNICABLE OP2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRQRw8sPMhYECPMkhwm_cIE_bwGKbCSnEw25sbQWyTBM/ts
+#EXTINF:-1,MX | TL NOVELAS HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfTPUiSn4CLVA7F6fphHfrGLKETV9EGLL9JT1Qrg8XeJ/ts
+#EXTINF:-1,MX | TL NOVELAS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZeuD3tMBy1wHFGvYZolw5MJnMie6qBzxjRTkrHlu-00/ts
+#EXTINF:-1,MX | AZ MUNDO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR68PZNAIda36esvmxYDa6QFJSzZJeejDpOEUTWz4wx2/ts
+#EXTINF:-1,MX | AZ CINEMA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR68PZNAIda36esvmxYDa6RvoU-HpqFAbpNbwax2V7JP/ts
+#EXTINF:-1,MX | AZ CLIC
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR68PZNAIda36esvmxYDa6QiI61Dos9_BYEe4dujb078/ts
+#EXTINF:-1,MX | AZ CORAZON HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlX2TvcAMh4JN8Rs25a9QZiz2tMmHroeU50yOUj3BPO1h/ts
+#EXTINF:-1,MX | CANAL 6 MULTIMEDIOS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRoxlFAEQYPISOk4QmqGUMQ1mKsLTglX_8DscFPD2B9T/ts
+#EXTINF:-1,MX | CANAL ONCE NACIONAL
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfTPUiSn4CLVA7F6fphHfrGeSqPabdXR0Qc2slzXJf-2/ts
+#EXTINF:-1,MX | HOLA TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZeuD3tMBy1wHFGvYZolw5OfWxJgJho3HHFm5awSqbyx/ts
+#EXTINF:-1,MX | A+
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR68PZNAIda36esvmxYDa6T2nkw3QEYEvduU1HUCgaaE/ts
+#EXTINF:-1,MX | FOX SPORTS PREMIUM (MEX)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlX9AjH1wxoAR3dClFGcG97VJd7khIg8uFumKLIh12a3T/ts
+#EXTINF:-1,MX | FOX SPORTS PREMIUM MEXICO HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlX9AjH1wxoAR3dClFGcG97WsyVzHO4EBqZV3MzliLeuj/ts
+#EXTINF:-1,MX | ALCARRIA TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfTPUiSn4CLVA7F6fphHfrHvN5B66eaf-8ipnS0QGXzt/ts
+#EXTINF:-1,MX | CANAL 10 CANCÃšN
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfTPUiSn4CLVA7F6fphHfrENB8WFC0Rg5r-_0v3fjDbd/ts
+#EXTINF:-1,MX | MEXIQUENSE TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfTPUiSn4CLVA7F6fphHfrHeSFnplFXuhQNGWHyosEN0/ts
+#EXTINF:-1,MX | TVMÃS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZeuD3tMBy1wHFGvYZolw5Onz64ZRlrU0xhrxF9TcanB/ts
+#EXTINF:-1,MX | MAS CHIC
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZeuD3tMBy1wHFGvYZolw5O3GrtdXo9kg5AGeLD5mwiA/ts
+#EXTINF:-1,MX | PASIONES
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZeuD3tMBy1wHFGvYZolw5ML6_zvVHWMW9WbN-9vwh-Y/ts
+#EXTINF:-1,MX | GLITZ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR68PZNAIda36esvmxYDa6Qm2YhSNiEblbTuiTa9q-u4/ts
+#EXTINF:-1,MX | MILENIO HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlX24lkK2955lGXFMBw9gEeqEFBT-aOBaLjs55Iec7GYL/ts
+#EXTINF:-1,MX | Milenio TV HD.
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlX24lkK2955lGXFMBw9gEeruJKBp-sV76VWrlQJzqUxT/ts
+#EXTINF:-1,EC | 01 • EL CANAL DEL FUTB0L
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUL4YaPA8ViARq5JPXLOgORBEfQFXzt2id7hCDE5PE6U/ts
+#EXTINF:-1,EC | 02 • EL CANAL DEL FUTB0L
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUpZh9SI3_ZPu6LyslqVWPgrfZBv7cY5G0xH230li4Sq/ts
+#EXTINF:-1,EC | 01 • DSPORTS ECUADOR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZhwks0O5e5-xvBBuiXaBy7qy08Y4WbdXhLRG3ydiJKM/ts
+#EXTINF:-1,EC | 02 • DSPORTS ECUADOR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT42QjA-iq6wY3OH-uHU8CZyglta5ZU4nnSDaN6FHvLS/ts
+#EXTINF:-1,EC | 01 • ECUAVISA COSTA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlV5V4maeOR-YEW5mfx3pF0fiJ1DWTYhjg7WkuRI8iYbE/ts
+#EXTINF:-1,EC | 02 • ECUAVISA COSTA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlV5V4maeOR-YEW5mfx3pF0eYa77A8knnRoKp_TWUuTPD/ts
+#EXTINF:-1,EC | 01 • ECUAVISA SIERRA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlV5V4maeOR-YEW5mfx3pF0eF-xaZWD6KpA680aUK2MA4/ts
+#EXTINF:-1,EC | 02 • ECUAVISA SIERRA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlV5V4maeOR-YEW5mfx3pF0fmrZHbH6suaj3i0upBUK5I/ts
+#EXTINF:-1,EC | 03 • ECUAVISA INTERNACIONAL
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlV5V4maeOR-YEW5mfx3pF0cqDzj0e0hudjHauI_qJ0Yt/ts
+#EXTINF:-1,EC | 01 • TELEAMAZONAS COSTA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleSLpKCqSDsq1ZTrVnqe17FF7snwMKW0QGmgVkaklMAN/ts
+#EXTINF:-1,EC | 02 • TELEAMAZONAS COSTA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleSLpKCqSDsq1ZTrVnqe17EnuyIdZmfMGsiQOZzn04gt/ts
+#EXTINF:-1,EC | 01 • TELEAMAZONAS SIERRA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleSLpKCqSDsq1ZTrVnqe17FHg-4eVFBGmWkL0sBfMqFk/ts
+#EXTINF:-1,EC | 02 • TELEAMAZONAS SIERRA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleSLpKCqSDsq1ZTrVnqe17HlcWlpX9jb7rEouWAXXQ5x/ts
+#EXTINF:-1,EC | 03 • TELEAMAZONAS SIERRA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleSLpKCqSDsq1ZTrVnqe17FhwqGvpSyif70nkPxiHxeI/ts
+#EXTINF:-1,EC | 01 • TC TELEVISION
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleSLpKCqSDsq1ZTrVnqe17FRBbG065e_iPCcwDU3qT9-/ts
+#EXTINF:-1,EC | 02 • TC TELEVISION HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleSLpKCqSDsq1ZTrVnqe17FZ-d-kc1nVEl2Cg9FB9ePY/ts
+#EXTINF:-1,EC | 01 • GAMAVISION
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldWO-i2BMe63j7eha_CuYWqTfJJa6G7Z_fr5YAvwJoH2/ts
+#EXTINF:-1,EC | 02 • GAMAVISION
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldWO-i2BMe63j7eha_CuYWrFYZlytlwOuVFgl2tX3ffC/ts
+#EXTINF:-1,EC | 01 • RTS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldWO-i2BMe63j7eha_CuYWp_tUSiankT1PvredFhCtSR/ts
+#EXTINF:-1,EC | 02 • RTS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXVO1x0_LbaH8PQc-sLvbgfOSKXgxmM3m1lDsuJ7cWty/ts
+#EXTINF:-1,WAPA HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc2oN-btHtcOnOnAi6v800AsXEd_2H4a0pXxomf2WlWp/ts
+#EXTINF:-1,PR  | Mega Tv
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc2oN-btHtcOnOnAi6v800A2Nx75_0thwC9S3rJW4yTl/ts
+#EXTINF:-1,PR  | Univisión
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc2oN-btHtcOnOnAi6v800AZvXFgx6YL5O7RCWBCwmQk/ts
+#EXTINF:-1,PR  | Wapa 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc2oN-btHtcOnOnAi6v800AKJAESGG_3X83M1-0Sc87I/ts
+#EXTINF:-1,PR  | Wipr Canal 6
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc2oN-btHtcOnOnAi6v800BNOe2md91QHj4c9QNgGtew/ts
+#EXTINF:-1,PR | TELEMUNDO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc2oN-btHtcOnOnAi6v800B3sjBdcraOXCw7Ks8AawFR/ts
+#EXTINF:-1,PR | Wapa America
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc2oN-btHtcOnOnAi6v800DzZVQMbxHDOWuAVCjQiUT2/ts
+#EXTINF:-1,PR II PUNTO 2 HD (PP)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTuPwGdOJyRJdVyxVUm19ZM6toLsB0fbhR43m3U2BnMU/ts
+#EXTINF:-1,PR | TELEONCE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTuPwGdOJyRJdVyxVUm19ZMbl6vYb71CmGf5XK44cQvb/ts
+#EXTINF:-1,NIÑOS | BABY TV HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-xuwo5i2PfEDyIKDJ_5XQ1kXYH7R1z6Uq53MxR23eg/ts
+#EXTINF:-1,NIÑOS | BABY TV FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-xuwo5i2PfEDyIKDJ_5XSABBVvi2xswqmFGR_f-eEC/ts
+#EXTINF:-1,NIÑOS | NICK HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSKIRvhDHrF-yCJd_jU7adT7PvOGMPvOTpYR7zldxi05/ts
+#EXTINF:-1,NIÑOS | NICK 2 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSKIRvhDHrF-yCJd_jU7adRFZ7MQgpfZXbmcSIqAk6p_/ts
+#EXTINF:-1,NIÑOS | NICK JR HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSKIRvhDHrF-yCJd_jU7adR7Iqz1aEEy8iplkmiudmQU/ts
+#EXTINF:-1,NIÑOS | NICK JR SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSKIRvhDHrF-yCJd_jU7adToiU8YFT7vG-bFhoQNKZTX/ts
+#EXTINF:-1,NIÑOS | DISNEY JR HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSKIRvhDHrF-yCJd_jU7adQCKrNHO_l4hHAzAF-hQ8AM/ts
+#EXTINF:-1,NIÑOS | DISNEY JR SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSKIRvhDHrF-yCJd_jU7adQpSSOz8XyydQJCOKSzXAze/ts
+#EXTINF:-1,NIÑOS | DISNEY CHANNEL SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSKIRvhDHrF-yCJd_jU7adSdxGXNyRDBie7URvlHs1RE/ts
+#EXTINF:-1,NIÑOS | DISNEY CHANNEL
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSKIRvhDHrF-yCJd_jU7adSfJ9BvJ7X5EBkI2xZkGzxp/ts
+#EXTINF:-1,NIÑOS | DISCOVERY KIDS  HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla69mvN65wQgWvGK5tlV0yBwpXx9i-XICCgWng5Zf_0Q/ts
+#EXTINF:-1,NIÑOS | DISCOVERY KIDS FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla69mvN65wQgWvGK5tlV0yAgODltt3O3adPd4dbB83Y-/ts
+#EXTINF:-1,NIÑOS | TOONCAST HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla69mvN65wQgWvGK5tlV0yCb6vEv-xk31kBqyuaMuKjd/ts
+#EXTINF:-1,NIÑOS | TOONCAST
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla69mvN65wQgWvGK5tlV0yC-jiZ_T1Tq3Fyp66-BOVR3/ts
+#EXTINF:-1,NIÑOS | BOOMERANG
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla69mvN65wQgWvGK5tlV0yBmIcLy2f8LA2NSRWYOwd_l/ts
+#EXTINF:-1,NIÑOS | CARTOON NETWORK
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla69mvN65wQgWvGK5tlV0yBKZWQn4cbqmOnf5pN2Ev3w/ts
+#EXTINF:-1,NIÑOS | CARTOON NETWORK HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla69mvN65wQgWvGK5tlV0yAf8IQkj4zi83e9lHny4AbN/ts
+#EXTINF:-1,NIÑOS | NICKTOON
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla69mvN65wQgWvGK5tlV0yBFhkmb6k6mjgKCj3i4NNOr/ts
+#EXTINF:-1,NIÑOS | NICKELODEON
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla69mvN65wQgWvGK5tlV0yBgvGVhUzUDLxu7K5F6NC5t/ts
+#EXTINF:-1,PY | TELEFUTURO HD*
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlf7lUoskE41YivuI8dED8RT991gmJSGuPMuS1HkUOsSw/ts
+#EXTINF:-1,PY | TELEFUTURO HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlf7lUoskE41YivuI8dED8RQ0tMH8fOpLWcpsh1e-9VBp/ts
+#EXTINF:-1,PY | C9N NOTICIAS HD*
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlf7lUoskE41YivuI8dED8RTsUmIEddEgq5-QClKJy6EU/ts
+#EXTINF:-1,PY | C9N NOTICIAS SD*
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlf7lUoskE41YivuI8dED8RTOn0ij6S7yczkJV4Zbzk9t/ts
+#EXTINF:-1,PY| SNT HD*
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlf7lUoskE41YivuI8dED8RRRcDsbXAtdBGADLDxvbtJc/ts
+#EXTINF:-1,PY | SNT SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT7OG8SAaVIr8m_hBGzNYcr0ZCsy4DR2dwvYy0HO_7AP/ts
+#EXTINF:-1,PY | RPC TRECE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT7OG8SAaVIr8m_hBGzNYcqeUqt3WsdPtmZJuCdtSKh6/ts
+#EXTINF:-1,PY • 01 | LA TELE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT7OG8SAaVIr8m_hBGzNYcr_-SuBTFeMFwQqTI0T4tgG/ts
+#EXTINF:-1,PY • 02 | LA TELE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT7OG8SAaVIr8m_hBGzNYcr9Q-SNkk9cMtwTqQBMFBEo/ts
+#EXTINF:-1,PY | NOTICIAS PY HD*
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT7OG8SAaVIr8m_hBGzNYcrvvBYNPofFDPzXz8XAotAN/ts
+#EXTINF:-1,PY | UNICANAL HD*
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT7OG8SAaVIr8m_hBGzNYco2JZmcl1H-lklj_w0kFwYL/ts
+#EXTINF:-1,CNN En Español
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTZ10ZbsiqxP7v9g5ypBXoKJLb0u2nIAO1avFLtRG7hq/ts
+#EXTINF:-1,CNN MX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTZ10ZbsiqxP7v9g5ypBXoLgLvDlYMKXh6azeVkeYkEz/ts
+#EXTINF:-1,UNIMAS - PHOENIX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWbeqHTbtteyFqeaSoQzTSFHK99kov1BhyxEeG5ltXQq/ts
+#EXTINF:-1,UNIMAS - FRESNO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWbeqHTbtteyFqeaSoQzTSHFpRYDdowQ5L3g9oKAQwLs/ts
+#EXTINF:-1,UNIMAS - MIAMI
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbJ41FYBvdKazN4BnToiQ_SctLMdOMveQEKIEX5om3-N/ts
+#EXTINF:-1,UNIMAS - SAN ANTONIO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbJ41FYBvdKazN4BnToiQ_QN6vhB0Z-sHJn6gRRkvbka/ts
+#EXTINF:-1,UNI - UNIVISION
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbJ41FYBvdKazN4BnToiQ_TTLTfzYqbsaG7G5_0UsyUQ/ts
+#EXTINF:-1,UNI - UNIVISION HOUSTON
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbJ41FYBvdKazN4BnToiQ_SZiObjoN1sSS0mnKrmsLHo/ts
+#EXTINF:-1,UNI - UNIVISION MIAMI
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbJ41FYBvdKazN4BnToiQ_TwniQazNePRhJJwDI8UrdO/ts
+#EXTINF:-1,UNI - UNIVISION TL NOVELAS FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbJ41FYBvdKazN4BnToiQ_SMl-v2YZVOn1pYaQNJ1h5e/ts
+#EXTINF:-1,UNI - UNIVISION NUEVA YORK
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8ei_ZtFdmLA5JdLrMqsIJWr95Mxbicr6PLzYe8DP4D/ts
+#EXTINF:-1,UNIMAS - FRESNO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8ei_ZtFdmLA5JdLrMqsILm1BQw0iUrSdwctbgKbi2A/ts
+#EXTINF:-1,UNIMAS - HOUSTON
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8ei_ZtFdmLA5JdLrMqsIKAyk5-SrGdtbV4Bux8CFQf/ts
+#EXTINF:-1,TELEMUNDO CHICAGO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlf_LcCZ_nAddsEwJn-yw0XaZFqrJEP4dVTpn02LFoN9W/ts
+#EXTINF:-1,TELEMUNDO MIAMI
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlf_LcCZ_nAddsEwJn-yw0Xa4DZDesqnUa6WFrMcN0Ww_/ts
+#EXTINF:-1,TELEMUNDO NY
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlf_LcCZ_nAddsEwJn-yw0Xaypr7vIN_L9L5MKkGy7_qO/ts
+#EXTINF:-1,TELEMUNDO DALLAS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlf_LcCZ_nAddsEwJn-yw0XaenJXPrJ9Z1qcvvMta1q4F/ts
+#EXTINF:-1,TELEMUNDO INTERNACIONAL
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlf_LcCZ_nAddsEwJn-yw0XZSP0CmDxkpfT2Idqu-JKtv/ts
+#EXTINF:-1,TELEMUNDO MEXICO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSk_LqXJ0HO7BoIe3R_83ZnnBtzwx7QOyU2MCfQWsZvN/ts
+#EXTINF:-1,TELEMUNDO 47
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldcTMWxyp5qnCtFhpGm6vFmWdn-olGZ00vSa9Cdq6BSH/ts
+#EXTINF:-1,TELEMUNDO WASHINGTON
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldcTMWxyp5qnCtFhpGm6vFmCFtUrIuHlSnxPMjzw8CbA/ts
+#EXTINF:-1,TELEMUNDO ORLANDO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlW1MYTPmu9-euAd5gPOaRcribvyI1QbISaoWgbgz3WXq/ts
+#EXTINF:-1,TELEMUNDO ORLANDO.
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlW1MYTPmu9-euAd5gPOaRcrne2FrPcbWIhvVGg79whb5/ts
+#EXTINF:-1,TELEMUNDO BOSTON
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlW1MYTPmu9-euAd5gPOaRcpVooQYhF_PJjcqM99tHvux/ts
+#EXTINF:-1,TELEMUNDO LOS ÁNGELES
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlW1MYTPmu9-euAd5gPOaRcqaR-mc0uShhVa8f4ZiFWgA/ts
+#EXTINF:-1,TELEMUNDO FRESNO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlW1MYTPmu9-euAd5gPOaRcpMnYMUmd2Hv58eiKjLgZzT/ts
+#EXTINF:-1,TELEMUNDO HOUSTON
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYlnYz-nEAKkDLi-xTh9rC0rFWVe75OIy2PCqTupXNfS/ts
+#EXTINF:-1,TELEMUNDO LAS VEGAS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYlnYz-nEAKkDLi-xTh9rC095DPG5NGRql3rSchvmTPW/ts
+#EXTINF:-1,TELEMUNDO LOS ANGELES.
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYlnYz-nEAKkDLi-xTh9rC3AjB8O04aUtXxtH94qIM8c/ts
+#EXTINF:-1,TELEMUNDO Puerto Rico
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYlnYz-nEAKkDLi-xTh9rC0cpuAdcGWf_w3eLYe4MCgT/ts
+#EXTINF:-1,CR | 01 • TIGO SPORTS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT0ju65P5Tjosk9RXMJb1763psQLxXDkAIDU-qxwhkwq/ts
+#EXTINF:-1,CR | 01 • TD + 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQgvwwm6DKQr0iv2LSbPEGN8MlnpYU0S2c5IqbrE2CrW/ts
+#EXTINF:-1,CR | 02 • TD+ 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfzRHNxfI62nhMr8esbwJNFR6C1M25ci63YP9vV577OZ/ts
+#EXTINF:-1,CR | 01 • TD+2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfzRHNxfI62nhMr8esbwJNFpGetWwskMwd6774BSi1s8/ts
+#EXTINF:-1,CR | 02 • TD + 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXI8CnrX_Pgjx5_sbRkvb6AdgZaPR98DJOPjozq3lJVt/ts
+#EXTINF:-1,CR | 01 • FUTV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlU-a7jXBucT9kXlfsUcqHKL0U3XNs-8OPQaafMnsa3zb/ts
+#EXTINF:-1,CR | 02 • FUTV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQgvwwm6DKQr0iv2LSbPEGP4TKhBEJsQIBZ6B1p8AY8Z/ts
+#EXTINF:-1,CR | LIMON TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRwWKfk9bNUKLqVziruSeHp76JtzHkrsxkyZUbC8Rynk/ts
+#EXTINF:-1,CR | REPRETEL 4
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYZgrDzvTMjSrqZJRrwm20QmQ8J6ugWZq_rL4Mx4ujGv/ts
+#EXTINF:-1,CR | REPRETEL 4 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS6rDIpD00VS_I_YexgxVqFDSsu18gHxh8mN9K5fLzHW/ts
+#EXTINF:-1,CR | REPRETEL 6
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYZgrDzvTMjSrqZJRrwm20Qfc0hhKEFBwFDK7yKMYaDl/ts
+#EXTINF:-1,CR | REPRETEL 6 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlU-a7jXBucT9kXlfsUcqHKJKGcXzR09IaKBqc32K_dSH/ts
+#EXTINF:-1,CR| REPRETEL 11
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfzRHNxfI62nhMr8esbwJNGO_pHwCQQrV6-EDcmVsBzw/ts
+#EXTINF:-1,CR | REPRETEL 11 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfzRHNxfI62nhMr8esbwJNFgr2KCC26yUkGcMlhGxYqy/ts
+#EXTINF:-1,CR | TELETICA 7
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfzRHNxfI62nhMr8esbwJNGN3YQcN_xDXVgD24BG_M6h/ts
+#EXTINF:-1,CR | TELETICA 7 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlU-a7jXBucT9kXlfsUcqHKK0614rOnxwPoPOSPlolFtE/ts
+#EXTINF:-1,CR | CANAL 8
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXbJtlsPcrafedW8zyUzJALFUd52AKnmgqCtOYvx6W6N/ts
+#EXTINF:-1,CR | CANAL 8 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld56OPHXYP7C1itXHaIPHiDfiKvFhi-ll8Bb-P7fD8gP/ts
+#EXTINF:-1,CR | SAN JOSE TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQgvwwm6DKQr0iv2LSbPEGOLoIslG8KJvLDGIE7ybEix/ts
+#EXTINF:-1,CR | TELESUR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfzRHNxfI62nhMr8esbwJNErM-AOUTL5556TkTxZJ2Za/ts
+#EXTINF:-1,CR | TELERED
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfzRHNxfI62nhMr8esbwJNGk2jhAHWIbBbZDa32Q5uoK/ts
+#EXTINF:-1,CR | EXTREMA TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXbJtlsPcrafedW8zyUzJAKo0ARiPlEtPwFeNasPB61j/ts
+#EXTINF:-1,CR | TELE UNO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXbJtlsPcrafedW8zyUzJAJdGvlgHEjnQEcHWdtZzm3m/ts
+#EXTINF:-1,CR | TELEFIDES
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXbJtlsPcrafedW8zyUzJAIn6MNfGAlsXyT0MW3O9zbW/ts
+#EXTINF:-1,CR | RADIO URBANO TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlW5wPQ-orRmIPCOx7LMXYvV3cMv8xKG6jK8IpOqrgfjE/ts
+#EXTINF:-1,CR | TV SUR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlW5wPQ-orRmIPCOx7LMXYvWqQGRvEwMq5A4O3Hveduiz/ts
+#EXTINF:-1,CR | TELE UNO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlU-a7jXBucT9kXlfsUcqHKJwMrAf9bKga9JGQeVy0KW6/ts
+#EXTINF:-1,CR | TV Sur Canal 9
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld56OPHXYP7C1itXHaIPHiA8PlCjMf3v0flWKmR37F2Z/ts
+#EXTINF:-1,CR | CANAL 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXn_G0u5dM4-CFGLD1TAIS8idqRD97OtdfQO7Z1JDl9m/ts
+#EXTINF:-1,CR | 03 • FUTV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXI8CnrX_Pgjx5_sbRkvb6An_T1stA2CiQf6fycsISlk/ts
+#EXTINF:-1,CR | CANAL 10
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlca_9qLNBa-twHL_VhvnYvbVpLZDxopwYTQf08bA1OLg/ts
+#EXTINF:-1,CR | RADIO SON TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlca_9qLNBa-twHL_VhvnYvY_opr-6DDL9DkIamfpj_by/ts
+#EXTINF:-1,CR | TURRIALBA TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcmFNBdiv0sYvLJUJhBa6G6_uGuVW3wuvdQwY0eAm88j/ts
+#EXTINF:-1,CR | CANAL 13
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZFvFKBEc3O31qVTwSuhdrkVaa-5gSXmNuTJUpWNRY1b/ts
+#EXTINF:-1,CR | TELESISTEMA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZBt2zf9cF2MHDBEi8cHoYJcYUlpYOHe1EXKgG13CTq5/ts
+#EXTINF:-1,CR | RETRO PALMARES
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQEO4US4l2zTWn9hFoRRsDjoUbgDuhD71bZprYVHZ8zL/ts
+#EXTINF:-1,CR | SAN VITO TELEVISION
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQEO4US4l2zTWn9hFoRRsDjypkwJUZxUd-4t2A884xZB/ts
+#EXTINF:-1,SAL | 01 • TIGO SPORTS ( SOLO EVENTOS )
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbXANu-7YAXlgDCjwBzv-QXnWKaMOwZpyGcp55is2ZDg/ts
+#EXTINF:-1,SAL | 02 • Tigo Sports Salvador
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbXANu-7YAXlgDCjwBzv-QV8Ulv7fKKx8n2GISO1uZCH/ts
+#EXTINF:-1,HOND| 1️⃣ TIGO SPORTS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlW7ZQ8uBYd7VNnS-Q0KR8rvngCpAEiyNb9rEa-oF6r_D/ts
+#EXTINF:-1,HOND| 2️⃣ TIGO SPORTS (SOLO EVENTOS)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlW7ZQ8uBYd7VNnS-Q0KR8rvlu6aNEbDRqbUmxqova18x/ts
+#EXTINF:-1,TL NOVELAS FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbZhQMcjCMhZtbUqillr8OhVCmcgTDjkFzBIsu7yX8gS/ts
+#EXTINF:-1,TLNOVELAS UNIVISION HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbZhQMcjCMhZtbUqillr8OjQnEbnL6H54AlWAyR4RbjZ/ts
+#EXTINF:-1,PASIONES HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbZhQMcjCMhZtbUqillr8OicgITNj7H8QqmMVrI2vyi5/ts
+#EXTINF:-1,CLARO SPORTS MX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTnVt8knVkOXAt0YKuZBKfBbPnOAqmpMRFsGuWIp0FIv/ts
+#EXTINF:-1,CLARO SPORTS MX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTnVt8knVkOXAt0YKuZBKfBSeHyDa_siUvzD_8T231kV/ts
+#EXTINF:-1,CLARO SPORTS 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldm9Eur2w012-d58Dq8p6D2m6tlszj7M0JR0JGGxHM40/ts
+#EXTINF:-1,CLARO SPORTS HD GT
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldm9Eur2w012-d58Dq8p6D03WfhBlIVUq6e6pKLpJ_cg/ts
+#EXTINF:-1,CLARO SPORTS GT
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldm9Eur2w012-d58Dq8p6D2H8L90VF4XH-IB4XovAeXn/ts
+#EXTINF:-1,CLARO SPORTS 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldm9Eur2w012-d58Dq8p6D0FXbeY4-XsWZSGA5_uP3p0/ts
+#EXTINF:-1,FOX SPORTS 3 FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWurEjEdpdPo1iEPhfkwH776DD7D6jToiLTfVSwGKeb0/ts
+#EXTINF:-1,FOX SPORTS 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWurEjEdpdPo1iEPhfkwH76G5RtqE0_A3Nyx_qd9mM4-/ts
+#EXTINF:-1,FOX SPORTS 2  LAT HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWurEjEdpdPo1iEPhfkwH767zv7BL542pvvfiiPxxsMh/ts
+#EXTINF:-1,FOX SPORTS 1  LAT FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWurEjEdpdPo1iEPhfkwH75HeikMi2BSvNkvn5lKDobs/ts
+#EXTINF:-1,FOX SPORTS 2 AR FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWurEjEdpdPo1iEPhfkwH75HFQO0A2NHNE3jAnS-BEUu/ts
+#EXTINF:-1,FOX SPORTS 3 MX FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWurEjEdpdPo1iEPhfkwH75VEBcMyiBF31GtDkIk5TCJ/ts
+#EXTINF:-1,FOX SPORTS 2 TP MX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaE0KaKdx3zpM2ZVnDDJaU0S4ZgH9hgnWDnXIgGX-nK8/ts
+#EXTINF:-1,FOX DEPORTES
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaE0KaKdx3zpM2ZVnDDJaU3iyq4DioMuxICd-bm1XoZE/ts
+#EXTINF:-1,FOX SPORTS 2  LAT HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaE0KaKdx3zpM2ZVnDDJaU18_xPPycelWJjF611N3VbN/ts
+#EXTINF:-1,FOX SPORTS 2 HD MX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaE0KaKdx3zpM2ZVnDDJaU3aUisKGF-T4GPUwyIWh2Xx/ts
+#EXTINF:-1,FOX SPORTS PREMIUM FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaE0KaKdx3zpM2ZVnDDJaU1FFJ0lopnN_MQNXhtoccQM/ts
+#EXTINF:-1,FOX SPORTS 2 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaE0KaKdx3zpM2ZVnDDJaU3kHMnyjvg_zqnpJM92_KGe/ts
+#EXTINF:-1,FOX SPORTS 2 SD SUR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaE0KaKdx3zpM2ZVnDDJaU2BWUwpo4gaL3h_MIdUid4L/ts
+#EXTINF:-1,MUSICA | MTV 00s
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldpb32UCyjYv3YJ2RsRra09-aypQZBzH2WWoSxoyGfD1/ts
+#EXTINF:-1,MUSICA MTV 80S
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldpb32UCyjYv3YJ2RsRra081jp2881yApzvrBvUYnnYX/ts
+#EXTINF:-1,HTV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZWgfSl5EJVLh6nwtG4diXGdbjEaOKOPWUrRwVMVPJLQ/ts
+#EXTINF:-1,MU | 01 • BANDA MAX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlW0CDXgHfOvm9nPLkc6MT_v0HHHj0-U6rfYMWQNJHyy4/ts
+#EXTINF:-1,MU: MTV HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUdd_y8zeYGh7i2J-hm0I1fIjy5V8MU_-YXRRMDUCiGv/ts
+#EXTINF:-1,MU: MTV 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUdd_y8zeYGh7i2J-hm0I1dDZgSFGFI2LdipOpKZUwER/ts
+#EXTINF:-1,MU | TELEHIT
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbtyQXxvFLe7D6ALcB_xXQaiNAbd6v3kG4oOALarxVYj/ts
+#EXTINF:-1,MU: MTV LIVE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUdd_y8zeYGh7i2J-hm0I1cnE5OoEuWUq6Tvmc0R8Wem/ts
+#EXTINF:-1,Afrobeats (1080p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUdd_y8zeYGh7i2J-hm0I1dfKzLKg0x9y3cBDFy4z7q_/ts
+#EXTINF:-1,Bibel TV Musik (720p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUdd_y8zeYGh7i2J-hm0I1eMoJaL7yddAvxwyCQ6bnxv/ts
+#EXTINF:-1,MCN6 Music Channel (1080p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlU-BhofoN0F-0y82PNhhbPudMivx6B52utX7Z_fK8Rjl/ts
+#EXTINF:-1,Pamir TV (1080p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlU-BhofoN0F-0y82PNhhbPutqKyuHC4S6WIOsfP5A7jo/ts
+#EXTINF:-1,Panorama FM (1080p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlU-BhofoN0F-0y82PNhhbPsqWT2J53bGfm387X7g2xsq/ts
+#EXTINF:-1,Play TV (480p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlU-BhofoN0F-0y82PNhhbPtD3YAUXOOcoDxVMMW5TN26/ts
+#EXTINF:-1,Qmusic (720p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRwkkUuQPFHQxX3BTdr5PTW_cxtVgWxEEHHccsiXviRy/ts
+#EXTINF:-1,Radio Tropical Tarapoto (480p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRwkkUuQPFHQxX3BTdr5PTW3Pws42Pcca3ohv2kOvATA/ts
+#EXTINF:-1,Rotana Khalijia (1080p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWsrycOhHEfv4yfjqeGeWfpWI_Q-6_qmIauYCNTr9FpT/ts
+#EXTINF:-1,Stingray Hit List (1080p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWsrycOhHEfv4yfjqeGeWfr0L3Xa5UFq54dsy3ja4qzr/ts
+#EXTINF:-1,Stingray Holiday Hits (1080p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWsrycOhHEfv4yfjqeGeWfrnCWEoJP9JfmrTKjD4qwsw/ts
+#EXTINF:-1,Stingray Hot Country (1080p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYh5AirjNf5AdpJG_6VCi0779cxr3NMQcB2R7w_LpGCO/ts
+#EXTINF:-1,Stingray Soul Storm (1080p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYh5AirjNf5AdpJG_6VCi07JSRKU_08ggSW_T6W6G3C_/ts
+#EXTINF:-1,TV Duga Plus (480p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYh5AirjNf5AdpJG_6VCi05yawNUuJensCJgFayht432/ts
+#EXTINF:-1,Жар Птица (404p) [Geo-blocked]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQeHWo9K4tw56nz23Bu-r8JyDtKK3MmnE9qFyEIMcmxl/ts
+#EXTINF:-1,Матур ТВ (1080p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQeHWo9K4tw56nz23Bu-r8L2jP3tZZSfu5N_YAtooXLP/ts
+#EXTINF:-1,Arabica TV (720p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ_p7U4fHOkFEbpITC433_PPz5-XOithUBj5vYnMkY59/ts
+#EXTINF:-1,Deluxe Lounge HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ_p7U4fHOkFEbpITC433_NadBRiiipWBpTCWcmPkrP2/ts
+#EXTINF:-1,Dhamaal (1080p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ_p7U4fHOkFEbpITC433_OLEfhLA11TCfP6lUeGUe1O/ts
+#EXTINF:-1,Eva Stream (Corporación Eva) (480p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ_p7U4fHOkFEbpITC433_MDTaX2s20nu5SLWpxN3cnr/ts
+#EXTINF:-1,Galáctica TV (Peru) (1080p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ_p7U4fHOkFEbpITC433_PPl7lEYfwTCoEqDogCvCKa/ts
+#EXTINF:-1,GO-RTV (720p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZWpUKDNS3Y3KofUROj9qy_PykV57Ike0ubuUDeA4RPR/ts
+#EXTINF:-1,High Vision (1080p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZWpUKDNS3Y3KofUROj9qy9cRhrzL810Wcr9V0GhWs3s/ts
+#EXTINF:-1,M2 (540p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZWpUKDNS3Y3KofUROj9qy_VUK61E0fxLbZ_9kADRqJo/ts
+#EXTINF:-1,Oxigeno TV (360p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZWpUKDNS3Y3KofUROj9qy-Rk_wo3VBQxryiA_DXrBQc/ts
+#EXTINF:-1,Radio PROS (720p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZWpUKDNS3Y3KofUROj9qy-XdeuUOmCuWjy9TpXnt9f2/ts
+#EXTINF:-1,Stingray Naturescape (360p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS0Jxt3uUI17_63IsZIJZWlU8ruQkurjJQIYqnJw4twn/ts
+#EXTINF:-1,Stingray Pop Adult (1080p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS0Jxt3uUI17_63IsZIJZWl-B9umxEK-zGHnC0yAUuBa/ts
+#EXTINF:-1,Stingray Rock Alternative (1080p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS0Jxt3uUI17_63IsZIJZWnaHXku1rraL43rGm9-8shL/ts
+#EXTINF:-1,Stingray Today's Latin Pop (1080p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS0Jxt3uUI17_63IsZIJZWlBwvcTIE28kwUK_BVeQ5vN/ts
+#EXTINF:-1,The Country Network (2160p)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfxEdj2_UT6KSuzDvKEKwBOOjwadBHGUHvtYEITsU_4T/ts
+#EXTINF:-1,VIVA Russia (1080p) [Not 24/7]
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfxEdj2_UT6KSuzDvKEKwBOVqOlkHgNyPToCpRg5Jz6V/ts
+#EXTINF:-1,Corazon_Llanero
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld4Nv4EJwgEEzojnShnTMYzzYOD-wVCxsq8m_0lbpcFq/ts
+#EXTINF:-1,HOND| TELECADENA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlb8bYCjzqSmcA0-0IQhQWEqnc_NRMgmNPQ8nyivTXk-D/ts
+#EXTINF:-1,HOND| CANAL 11
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlb8bYCjzqSmcA0-0IQhQWEo9Bx6NvSqmX7uU7T5U7PBF/ts
+#EXTINF:-1,HOND| HCH
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlb8bYCjzqSmcA0-0IQhQWErlPB2dfkxxC_bJDeKOqSx7/ts
+#EXTINF:-1,HOND| TSI
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlb8bYCjzqSmcA0-0IQhQWEopdeK7FXLYp22AQL43Hctb/ts
+#EXTINF:-1,SALVADOR | CANAL 10
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcUDKr_Boq6R3HVEqFJruhx_oeMY5sPlPi36gJ0stpzH/ts
+#EXTINF:-1,SALVADOR  | CANAL 6 SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcUDKr_Boq6R3HVEqFJruhw2aLO0pRJ1UxrYM7KQdQYh/ts
+#EXTINF:-1,SALVADOR | CANAL 21
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcUDKr_Boq6R3HVEqFJruhxA4zDHqQgsHbSNKxZahY25/ts
+#EXTINF:-1,SALVADOR | CANAL 4
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcUDKr_Boq6R3HVEqFJruhyDQUoYe_G4HPhPgGHrntHw/ts
+#EXTINF:-1,SALVADOR | CANAL 6
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcUDKr_Boq6R3HVEqFJruhwuyn1e6HUrCvvOFeq6Cxdj/ts
+#EXTINF:-1,SALVADOR | CANAL 12
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcUDKr_Boq6R3HVEqFJruhxUlWp-8TtDOnBn0fHv9eoU/ts
+#EXTINF:-1,SALVADOR | CANAL 19
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcUDKr_Boq6R3HVEqFJruhxBRQJ2dQxFEqLbPIxkvW2g/ts
+#EXTINF:-1,SALVADOR | 4 TCS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcUDKr_Boq6R3HVEqFJruhyNxvaJsU0fUD4X0PSKfsa3/ts
+#EXTINF:-1,SALVADOR | TVO 23
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRPl3dsgOkyZnZY1Tjx9E2ErorPlVLanXeKqeCUNfnOm/ts
+#EXTINF:-1,SALVADOR | CANAL 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRPl3dsgOkyZnZY1Tjx9E2Eav4SoYB5io6D4hAZQ0Z1H/ts
+#EXTINF:-1,NIC | Canal 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRPl3dsgOkyZnZY1Tjx9E2ERDR_IOH5IfsoLGcYhVHSj/ts
+#EXTINF:-1,NIC | CANAL 12
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRPl3dsgOkyZnZY1Tjx9E2HQH4iLXSvNYeIqJculn59i/ts
+#EXTINF:-1,NIC | Canal 8
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRPl3dsgOkyZnZY1Tjx9E2EuXuHqPLxkJpgJELz9PaeO/ts
+#EXTINF:-1,CANAL 9
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRPl3dsgOkyZnZY1Tjx9E2HoucmOQHHdTg5EDyS_f3FX/ts
+#EXTINF:-1,NIC | Canal 6
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRPl3dsgOkyZnZY1Tjx9E2GB0Oe7zX43QOMUXhmoHq8I/ts
+#EXTINF:-1,NIC | Canal 14
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRPl3dsgOkyZnZY1Tjx9E2ESgohRHIYCIzJ_sQcd9rMY/ts
+#EXTINF:-1,NIC | Nica Vision canal 12
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldFUazxUqUs_Gi_zLuk_uct3G1-51hgKE7tPvPkUgJVz/ts
+#EXTINF:-1,NIC | CANAL 13
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldFUazxUqUs_Gi_zLuk_uctOB-EBvwS5r7IkRr1aPAeQ/ts
+#EXTINF:-1,CUBAVISION
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldvQKFgk81iKMoOWEJrTJJpRltvCR5NabVCcySQPx4a1/ts
+#EXTINF:-1,MULTIVISION
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldvQKFgk81iKMoOWEJrTJJp7EEpQDtoCxxZMHUKxErA7/ts
+#EXTINF:-1,TELEREBELDE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZdCWxigJ9oh89eKnLUZTRAjfOk-XQpctfClwZEE1YnR/ts
+#EXTINF:-1,CUBAMAX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZdCWxigJ9oh89eKnLUZTRBfuceZGVyvshgctvy7arYO/ts
+#EXTINF:-1,SKY SPORTS LA LIGA HD 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZcaczlyFv0B7cIK2kcsvREYWVJnTG6kRbVhmzJZuHcx/ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZcaczlyFv0B7cIK2kcsvRH7G-OTIqukPKuGmcelY-2R/ts
+#EXTINF:-1,NOTI | CNN INGLES
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldqrURtx6bQY_pZoBwDSIA340swvK5XnhZmm9n5Tm9QF/ts
+#EXTINF:-1,NOTI | CBSN
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldqrURtx6bQY_pZoBwDSIA3AtnsL9OOY7kaum7oUsI3c/ts
+#EXTINF:-1,NOTI | RT EN ESPANOL
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldqrURtx6bQY_pZoBwDSIA1Y7Di22pc2hULLlIiT2lqI/ts
+#EXTINF:-1,TN NOTICIAS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWbymCbZ36VsVcggSXMqVzS9VA_n4BGW8qs5YLZVd2zr/ts
+#EXTINF:-1,NOTI | CNN INTERNACIONAL
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWbymCbZ36VsVcggSXMqVzTP-U0uJBqGd4PIJ9cP9Oqs/ts
+#EXTINF:-1,TYC SPORTS INTERNACIONAL HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTHCIz_tWa_GxxFiwhpyuk0EDAkAA0gi3igWjCdIn6m9/ts
+#EXTINF:-1,TYC SPORTS HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTHCIz_tWa_GxxFiwhpyuk3hURJHXAYchZ7JIGelxHen/ts
+#EXTINF:-1,TYC SPORTS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTHCIz_tWa_GxxFiwhpyuk3KqSNhn5TkWAW31EhxSUOC/ts
+#EXTINF:-1,TENNIS CHANNEL FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTuWEvSJCQrwiU6BbQAVZArm4Xc6Xv-1Gm91pmV_Ybco/ts
+#EXTINF:-1,STAR CHANNEL SUR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQu2f_0ymTeYLCt7y4GX-KXFwLAh2C8-WH2BYh59JPA6/ts
+#EXTINF:-1,STAR CHANNEL NORTE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQu2f_0ymTeYLCt7y4GX-KU9rhR-QMmNBe9tEPcZJ_fa/ts
+#EXTINF:-1,UNIVERSAL CINEMA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQu2f_0ymTeYLCt7y4GX-KVgnMBt_7wVO2m89LuwkpS6/ts
+#EXTINF:-1,UNIVERSAL CRIME
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQu2f_0ymTeYLCt7y4GX-KWST64ByTlRe7ft2M5lPlYX/ts
+#EXTINF:-1,UNIVERSAL PREMIERE SUR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQu2f_0ymTeYLCt7y4GX-KUfqATvrhSv8GwpwGaLxYCp/ts
+#EXTINF:-1,UNIVERSAL REALITY
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQu2f_0ymTeYLCt7y4GX-KXStPX3RlibzF5anznsM5qV/ts
+#EXTINF:-1,UNIVERSAL COMEDY
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQu2f_0ymTeYLCt7y4GX-KX9_2EcPscT7MqdqA50Avoz/ts
+#EXTINF:-1,UNIVERSAL CINEMA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQu2f_0ymTeYLCt7y4GX-KWAE2jpfezMv7Zs88eq7t_1/ts
+#EXTINF:-1,UNIVERSAL PREMIERE NORTE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQu2f_0ymTeYLCt7y4GX-KVUBE5VXB9XwA5BPB-rx5nv/ts
+#EXTINF:-1,El Chavo 24/7
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZwT4sV0WssrO-4eNWzlOZuMRuVUFG5ZDZy95IiLVwJS/ts
+#EXTINF:-1,24/7 Chespirito
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldRGOr-6kasUCryQSTsnS6BrJ6zCsJLxdlXnC1e__PzH/ts
+#EXTINF:-1,TELEMUNDO SAN FRANSISCO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlf_LcCZ_nAddsEwJn-yw0Xb7ixn30M9lwWA-rrlttt2_/ts
+#EXTINF:-1,Canal i | VE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR5iF_IB1V704u1FLo7QQ9B4SQthxVQiLAHVoY4mKIqZ/ts
+#EXTINF:-1,VE | PROMAR TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYjlvT29orPMQxMlboaAfsF68q0c1jL5_FtAlGjP6aH2/ts
+#EXTINF:-1,TELESUR I VE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYjlvT29orPMQxMlboaAfsFy9WlYBfw9YIuX85tJ8gAo/ts
+#EXTINF:-1,VE | TELESUR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYjlvT29orPMQxMlboaAfsEQ7k46AEK-cTdJcUHrQza_/ts
+#EXTINF:-1,Televen | VE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYjlvT29orPMQxMlboaAfsE7vRQoaGwqALkeCetvNyXP/ts
+#EXTINF:-1,NI | CANAL 10
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlb5BK9-4_Elo87GPXeC1vdnH3JQaTY3UHTQ70rD353z-/ts
+#EXTINF:-1,TELEMUNDO PHILADELPHIA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSk_LqXJ0HO7BoIe3R_83Znq7sf3hoZLw5hpxa8K2Gpy/ts
+#EXTINF:-1,NIÑOS | NICK SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSKIRvhDHrF-yCJd_jU7adSBhlBSB7rfHBM0sh5DS1Xq/ts
+#EXTINF:-1,STAR Channel FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTteRGXCehMZ0i6Kfl-j5j3J-2xPQYCOp8cQLO5DEfvw/ts
+#EXTINF:-1,Canal 4 Nicaragua
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaGlGWjBDyGFpYkSqMCCoPs5oszA9fCv3fqfR0YwOpkn/ts
+#EXTINF:-1,F1 | DAZN
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT42QjA-iq6wY3OH-uHU8CbtHDtT-1WnI3YpA6F6vqMK/ts
+#EXTINF:-1,F1 | DAZN HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT42QjA-iq6wY3OH-uHU8CYce0ALpJyaXpHx_nEXD97q/ts
+#EXTINF:-1,f1 | MOVISTAR FORMULA 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY2l2ehQFVyTiuYuKwWaK-OwsCYo_UY2mNFq7fLt_WC6/ts
+#EXTINF:-1,F1 | Sky Sports F1 FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY2l2ehQFVyTiuYuKwWaK-PiomGHAI16KM92ABVJcHsk/ts
+#EXTINF:-1,TENNIS CHANNEL # 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY2l2ehQFVyTiuYuKwWaK-MxATOnzgJohBA1PfyPaoxu/ts
+#EXTINF:-1,TENNIS CHANNEL HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY2l2ehQFVyTiuYuKwWaK-M1fqXKicUwMIvK_vkizBk6/ts
+#EXTINF:-1,TENNIS CHANNEL SPORTS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY2l2ehQFVyTiuYuKwWaK-O45KaqZZguTiELSiKiJHe2/ts
+#EXTINF:-1,TENNIS CHANNEL -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY2l2ehQFVyTiuYuKwWaK-M3Q-02yTK_v1c8NYK0dSNe/ts
+#EXTINF:-1,CICLISMO | EUROSPORTS 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY2l2ehQFVyTiuYuKwWaK-MKM3z6b_GSKGNYFT5jzegF/ts
+#EXTINF:-1,CICLISMO | EUROSPORTS 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRhPK8R6Teolaz52uY3xxGgHETmJ1lJn1cMCnx14USsZ/ts
+#EXTINF:-1,EC | 01 • ECUADOR TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaR-QIRVUyq454AVbnPzEFTc5KISfMvqWreBsrwwiilP/ts
+#EXTINF:-1,EC | 02 • ECUADOR TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaR-QIRVUyq454AVbnPzEFTk-1B-K_Fcg8BCl50MQxXr/ts
+#EXTINF:-1,EC | 01 • TVC
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaR-QIRVUyq454AVbnPzEFTo1uG5VgO4Hazyhu_ovUOL/ts
+#EXTINF:-1,EC | 02 • TVC
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaR-QIRVUyq454AVbnPzEFSdCvXkBy28nLThqTWTTQ81/ts
+#EXTINF:-1,EC | 01 • OROMAR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaR-QIRVUyq454AVbnPzEFRiGKnWtfx5foP6qZF92gp3/ts
+#EXTINF:-1,EC | 02 • OROMAR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaR-QIRVUyq454AVbnPzEFSbHT9IppuHjZe4vyw_vySm/ts
+#EXTINF:-1,EC | 01 • TELERAMA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQaUfQZ6QIgv8GcQFjNAZgHs6VutCMl1zWrYKO4mojES/ts
+#EXTINF:-1,EC | 1️⃣ TELERAMA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQaUfQZ6QIgv8GcQFjNAZgHgm67u92YLiRf2F2GnDwNn/ts
+#EXTINF:-1,EC | WUAN+ FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQaUfQZ6QIgv8GcQFjNAZgE4WOH3405y_7JTJTvYwOOh/ts
+#EXTINF:-1,EC | ZARACAY TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQaUfQZ6QIgv8GcQFjNAZgHP5JKdcJ6UfhJHToaUCWVo/ts
+#EXTINF:-1,MEX | AFIZZIONADOS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlb85nxyKrocivxDrADV_VYyfnaHvo7JYKcBuknhyUlqY/ts
+#EXTINF:-1,FOX SPORTS | PREMIUM
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS9nkf28paEwMiz6ZGbNwjOet0f5uCWw6fxhJ-OJ9Itk/ts
+#EXTINF:-1,FOX SPORTS | PREMIUM
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS9nkf28paEwMiz6ZGbNwjO63-ss-ugaZ9t4FgtsqVyx/ts
+#EXTINF:-1,NIÑOS | CARTOONITO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYHHrm3a6EnxDO1iFbyufsSWO1QRGUvZAzbJ3qGN_Vpa/ts
+#EXTINF:-1,UNI - UNIVISION LOS ANGELES
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXUPNZd0T3vvBxKOPTrnlUPLLw7eFqPQCPNHNQ070VHr/ts
+#EXTINF:-1,NO | RCN Novelas HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTgOHr79pbr6FSbiqDg0b_tt2TlV4YpwXtmNjsPAq4bF/ts
+#EXTINF:-1,UNI - UNIVISION DALLAS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlU7LjjdxQFHYy0lMCHSrP1xqkc8TTC40E13EtMwaDMki/ts
+#EXTINF:-1,DSPORTS | 1 ARG ***
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlde4-XO-IgrmH3AVoVwtn7b5hhDVwrK9EvNGJuN6H6QR/ts
+#EXTINF:-1,DSPORTS | 1 CH HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlde4-XO-IgrmH3AVoVwtn7bpeN93ryEHqGpLs4sAGPr3/ts
+#EXTINF:-1,DSPORTS | 1 COL ***
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlde4-XO-IgrmH3AVoVwtn7bonJtAY2ARWfzvoRaoHc1M/ts
+#EXTINF:-1,DSPORTS | 1 ECU HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleYId3z7y__TnJywWdU8PBOMwmo5xuFquKXgVgbvILgX/ts
+#EXTINF:-1,DSPORTS | 1 PE ***
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleYId3z7y__TnJywWdU8PBO-0fBx0vFKWxA1iCNLV-Gt/ts
+#EXTINF:-1,DSPORTS | 1 PE HD1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleYId3z7y__TnJywWdU8PBM7yE9_Pm4PB-tMPG9A-1vC/ts
+#EXTINF:-1,DSPORTS | 1 UR HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleYId3z7y__TnJywWdU8PBMx8gHCm1iIg5Y1BEhkcovX/ts
+#EXTINF:-1,DSPORTS | 2 ARG FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleYId3z7y__TnJywWdU8PBMZe2YU0EjZoVyp7XEZmU_o/ts
+#EXTINF:-1,DSPORTS | 2 ARG
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleYId3z7y__TnJywWdU8PBMdfAL9BZWN1YKDnaMzMrYg/ts
+#EXTINF:-1,DSPORTS | 2 COL
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleYId3z7y__TnJywWdU8PBPnoU8MsyHXagi6CqeB6Lvm/ts
+#EXTINF:-1,DSPORTS | 2 ECU FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleYId3z7y__TnJywWdU8PBOEW4RkbgeiIrXeZwU9mL5u/ts
+#EXTINF:-1,DSPORTS | 2 PE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleYId3z7y__TnJywWdU8PBNtzZsdGEsDs2k2e4kB-RQi/ts
+#EXTINF:-1,DSPORTS | 2 PE HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleYId3z7y__TnJywWdU8PBO9IcjpNZ59Djs7oHmhYNGR/ts
+#EXTINF:-1,DSPORTS | PLUS ARG FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTT-OPTYFKZ0_Iqcjf_U1BchVRSOgZYC9XKl_nsN3-7M/ts
+#EXTINF:-1,DSPORTS | PLUS ARG
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTT-OPTYFKZ0_Iqcjf_U1BcG7rgmBBZ2SJH2qLmr0rqm/ts
+#EXTINF:-1,DSPORTS | PLUS ECU FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTT-OPTYFKZ0_Iqcjf_U1BeGpPTyUOurD8SBKdXu8qKj/ts
+#EXTINF:-1,DSPORTS | PLUS PE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTT-OPTYFKZ0_Iqcjf_U1BfmCck9VTsEgD7FChPpPrgz/ts
+#EXTINF:-1,DSPORTS | PPV 01
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTT-OPTYFKZ0_Iqcjf_U1BcZ6K6k9aVcKNE4_q74KY0N/ts
+#EXTINF:-1,DSPORTS | PPV 02
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTT-OPTYFKZ0_Iqcjf_U1BdVGpeOvxOA065g55RHn4At/ts
+#EXTINF:-1,DSPORTS | PPV 03
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTT-OPTYFKZ0_Iqcjf_U1BfO-0k_23d1xEu052oYqbzC/ts
+#EXTINF:-1,DSPORTS | PPV 04
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTT-OPTYFKZ0_Iqcjf_U1BfEbbEe3_PNHCkWy9RTzdD0/ts
+#EXTINF:-1,ESPN | 1 ARG FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYvwbEKrEb4WBw0NoujxOThAShqlnGR4YWqWIuli1HAI/ts
+#EXTINF:-1,ESPN | 1 ARG **
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYvwbEKrEb4WBw0NoujxOTjivo83RQdyizJWzk9AOB_S/ts
+#EXTINF:-1,ESPN | 1 CH
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYvwbEKrEb4WBw0NoujxOTiruVOu2OOGDowepp0pOIgy/ts
+#EXTINF:-1,ESPN | 1 LATINOAMERICA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYvwbEKrEb4WBw0NoujxOThWjvp07VgSswl-uD3QBDqf/ts
+#EXTINF:-1,ESPN | 1 MX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYvwbEKrEb4WBw0NoujxOTg1fs4bIGR5vSxVoKb0lH3d/ts
+#EXTINF:-1,ESPN | 1 SUR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcGvR1C57px3A5gOoOJcCujdsmoG6o1oipdKpPjSh-XX/ts
+#EXTINF:-1,ESPN | 2 ARG
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcGvR1C57px3A5gOoOJcCuizVszmDDpn0h_dueufUSiL/ts
+#EXTINF:-1,ESPN | 2 ARG FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcGvR1C57px3A5gOoOJcCuhAd5JMuXiTJm0TpyjxQ7gX/ts
+#EXTINF:-1,ESPN | 2 CH -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcGvR1C57px3A5gOoOJcCuhxy1R3rnrWXchNO55BKDfr/ts
+#EXTINF:-1,ESPN | COL //
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcGvR1C57px3A5gOoOJcCuil95x5PwhvsCAlFT6FK6wG/ts
+#EXTINF:-1,ESPN | COL 2 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcGvR1C57px3A5gOoOJcCugAeX8-jeiRPz8Lnl8sQOe4/ts
+#EXTINF:-1,ESPN | 2 MX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcGvR1C57px3A5gOoOJcCuiDIGzAAAxfP7wLpHueY5xy/ts
+#EXTINF:-1,ESPN | 2 PE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcGvR1C57px3A5gOoOJcCugchpbyOySBresKo-VS_ydv/ts
+#EXTINF:-1,ESPN | 2 SUR ®
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcGvR1C57px3A5gOoOJcCuiO2FglOXzMonAxq50RXLVj/ts
+#EXTINF:-1,ESPN | USA NEW HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8De7u79KIzEwRzBRDyv3YrckrBS_7whDsvMrqEc7X_/ts
+#EXTINF:-1,ESPN | 3 ARG HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8De7u79KIzEwRzBRDyv3YIpeuYW8BbZo6AfMAIfEtb/ts
+#EXTINF:-1,ESPN | 3 ARG FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8De7u79KIzEwRzBRDyv3aCcqzrbuB3dHiNs1SgUB54/ts
+#EXTINF:-1,ESPN | 3 COL
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8De7u79KIzEwRzBRDyv3Z3NX5ybk7dHsoyBz4gC1Ws/ts
+#EXTINF:-1,ESPN | 3 COL -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8De7u79KIzEwRzBRDyv3aDalW9oO1F4G828MPsy3nl/ts
+#EXTINF:-1,ESPN | 3 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8De7u79KIzEwRzBRDyv3aXuU46jUMd9gz_2Q7ohcMk/ts
+#EXTINF:-1,ESPN | 3 Mx
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8De7u79KIzEwRzBRDyv3ZLMT2SpHpcjz0UbZWjvnJy/ts
+#EXTINF:-1,ESPN | 3 MX FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8De7u79KIzEwRzBRDyv3ajJ-lLVQ9p_Acr8fiBF9bS/ts
+#EXTINF:-1,ESPN | 3 SUR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVuFG3rbW_FsLrVLUsXH5TDZqgpncAuvR3XcwMVN8At9/ts
+#EXTINF:-1,ESPN | 4 ARG FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVuFG3rbW_FsLrVLUsXH5TBY4hu-4gKXU_KTh6eDnro2/ts
+#EXTINF:-1,ESPN | 4 ARG HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVuFG3rbW_FsLrVLUsXH5TCeHZPUnrqvzPrGiVnY64xV/ts
+#EXTINF:-1,ESPN | 4 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVuFG3rbW_FsLrVLUsXH5TDefRzOwfTikpkmbZ_dKF70/ts
+#EXTINF:-1,ESPN | 4
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVuFG3rbW_FsLrVLUsXH5TCmoqpNDAZTveIahXrDPYzy/ts
+#EXTINF:-1,ESPN | 4 SUR ®
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVuFG3rbW_FsLrVLUsXH5TDMF1KKsZHvbdDu5R4QtLNP/ts
+#EXTINF:-1,ESPN | DEPORTES FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS10x39awdkIidy5mfBA27vZTjENOqE0l0xp7kR-62wG/ts
+#EXTINF:-1,ESPN | DEPORTES MX HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS10x39awdkIidy5mfBA27sLVpeyPQDS2bygQnjs3K6H/ts
+#EXTINF:-1,ESPN | EXTRA MX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS10x39awdkIidy5mfBA27uq7q4xKhPVWVTeYCKjvLZN/ts
+#EXTINF:-1,ESPN | EXTRA MX -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS10x39awdkIidy5mfBA27vL9iRLkXXfaHoUpl9OuoCs/ts
+#EXTINF:-1,ESPN | NEWS USA FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS10x39awdkIidy5mfBA27tOknLxNtBRx3eMJS7G8oCh/ts
+#EXTINF:-1,ESPN | PLUS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS10x39awdkIidy5mfBA27uu-FzO_uciNOxtJxbPdW76/ts
+#EXTINF:-1,ESPN | PREMIUM ARG OPC # 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS10x39awdkIidy5mfBA27tZtuuWTHjOFyLQScq-EvYQ/ts
+#EXTINF:-1,ESPN | PREMIUM ARG OPC # 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS10x39awdkIidy5mfBA27s6w75OO4fD9kgxEFqRihQi/ts
+#EXTINF:-1,ESPN 2 | SPORTS USA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaJ_GgVyMniwa0We0lKkWLL3rebz29VwUllo03P09vf0/ts
+#EXTINF:-1,ESPN│SPORTS USA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaJ_GgVyMniwa0We0lKkWLKN2x5LMLwhOGpGvb1a9lPs/ts
+#EXTINF:-1,UY | 1️⃣ DSPORTS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSg4EZ8B5ik4J5vY5-Ar1p1wHL1A9me54X5EI4CE1fKl/ts
+#EXTINF:-1,UY | 2️⃣ DSPORTS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSg4EZ8B5ik4J5vY5-Ar1p3WkMsvFITYQ_R11bGLOtEU/ts
+#EXTINF:-1,UY | 1️⃣ PPV (SOLO EVENTOS)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTpfQjYYe_XG1-iH-mm7y0iv6pDP0vFIHCEXm500_x-4/ts
+#EXTINF:-1,UY | 2️⃣ PPV (SOLO EVENTOS)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTpfQjYYe_XG1-iH-mm7y0jok_Xc_IdnBKQ5Cx58Y8tD/ts
+#EXTINF:-1,UR: VTV OPCION 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZkyveF9b3oHJwMWi91Wj5KLC13WDNCC7CmNrN2B9jyK/ts
+#EXTINF:-1,UR: VTV OPCION 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWZn1U-zrPzaAuAWaYTHs6O1UBYDWnOpAxHJF07nk3Vl/ts
+#EXTINF:-1,UR | VTV PLUS OPCION 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXSjvNc3l7EaRqeyM4Qe-D8nxXy3GgHUJOGrMcD4_ZNo/ts
+#EXTINF:-1,UR: VTV PLUS OPCION 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXSjvNc3l7EaRqeyM4Qe-D8Fals9j6iSh5SVWi91B4z7/ts
+#EXTINF:-1,UR: CANAL 10 OPCION 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRCTFkIokwgkbTsPBntizIIo1afBTR_CovGb-DW4LNj-/ts
+#EXTINF:-1,UR: CANAL 10 OPCION 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRCTFkIokwgkbTsPBntizIJ1sNZ5rRiyHj09EwxuB5aN/ts
+#EXTINF:-1,UR: CANAL 10 OPCION 3
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRCTFkIokwgkbTsPBntizILwlCSkDYWZneAbPA1HptOd/ts
+#EXTINF:-1,UR: CANAL 12 OPCION 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZRg6TQzkcBLxKJRCJdokksEDGsS-5QyAO7P0cq7_aWI/ts
+#EXTINF:-1,UR: CANAL 12 OPCION 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR6e4pScd7cUOyJf0EUXoy8JkLL5kRgnRC3ZMpyPUeSo/ts
+#EXTINF:-1,UR: CANAL 12 OPCION 3
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaoFCsDkUlwhEH1DvEOZIVg_ARoT2zZuyW6g5WSyRHTU/ts
+#EXTINF:-1,UR: CANAL 12 MELO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSg4EZ8B5ik4J5vY5-Ar1p2w4Zdin0cYt9J3WdN3sOIW/ts
+#EXTINF:-1,UR: TELESUR OPCION 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWZn1U-zrPzaAuAWaYTHs6PRr7V54oqfR_VLxkYw-dWX/ts
+#EXTINF:-1,UR: TELESUR OPCION 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWZn1U-zrPzaAuAWaYTHs6NM2_zbAncmUknBqfF6G4wu/ts
+#EXTINF:-1,UR: TV CIUDAD OPCION 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWZn1U-zrPzaAuAWaYTHs6O-X4OFZTB3NRpsxoqkGEVu/ts
+#EXTINF:-1,UR: TV CIUDAD OPCION 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlWZn1U-zrPzaAuAWaYTHs6NTky0vpFiH7-KimV0y4WU2/ts
+#EXTINF:-1,UR: CANAL 4 OPCION 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZkyveF9b3oHJwMWi91Wj5KK330Ip8mJoSb5fTyjiCm0/ts
+#EXTINF:-1,UR: CANAL 4 OPCION 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR6e4pScd7cUOyJf0EUXoy95jajfzbKdrdTv9EU2nLAS/ts
+#EXTINF:-1,UR: CANAL 5 HD (E)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSg4EZ8B5ik4J5vY5-Ar1p1OA-PHdkESZO1mK_cu5LHx/ts
+#EXTINF:-1,UR: CANAL 5 SD (E)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSg4EZ8B5ik4J5vY5-Ar1p2gjF8ahq3z6bGsrH-VncCj/ts
+#EXTINF:-1,UR: CANAL 7 PUNTA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZhQfOI6uoEjXjSRBM8ggNsYySpsloCQwUL1-BI-CSE_/ts
+#EXTINF:-1,UR: LA RED OPCION 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaoFCsDkUlwhEH1DvEOZIViJXRrDYnUXngeo-Oydigcd/ts
+#EXTINF:-1,UR: LA RED OPCION 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZhQfOI6uoEjXjSRBM8ggNtnrIiwBtGHcOqoI7sloUyL/ts
+#EXTINF:-1,UR: A + V
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlR6e4pScd7cUOyJf0EUXoy96r7-G9kJz-wWq7RQMfPe_/ts
+#EXTINF:-1,CO | 01 • Win+ Fútbol ᴴᴰ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXyNKEKPJy8MrMiur1Nb-YXOcU8LyQ5ejV4oZvAEOCYs/ts
+#EXTINF:-1,CO | 02 •  Win+ Fútbol ᴴᴰ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla3XCE0ic0EB2Vi49V_xhG5cqj_L-tpz-Q6kqXateGR8/ts
+#EXTINF:-1,CO | 03 • Win+ Fútbol ᴴᴰ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla3XCE0ic0EB2Vi49V_xhG4VTXFWAjgR-0-jIXFlo-bU/ts
+#EXTINF:-1,CO | 04 • Win+ Fútbol ᴴᴰ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla3XCE0ic0EB2Vi49V_xhG6D4pF_l8m3ZPcythRsSIEy/ts
+#EXTINF:-1,CO | 01 • Win Sports FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla3XCE0ic0EB2Vi49V_xhG5jmhXJ3QjqY4Z0l8NTLlWn/ts
+#EXTINF:-1,CO | 02 •Win Sports HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRoDMMyt3XM0eSTgHrtenbkiLZYI4x9ACx_FYAMgXshe/ts
+#EXTINF:-1,CO | 03 • Win Sports SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlRoDMMyt3XM0eSTgHrtenbmEQ32zFJ3pkY8kgKT03HlU/ts
+#EXTINF:-1,CO | 01 • ESPN COLOMBIA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXoZxMPnkQzU6E0OTw8Z8oBcJtLbuDE0Xxt3ZHPxGORe/ts
+#EXTINF:-1,CO | 02 • ESPN COLOMBIA 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXoZxMPnkQzU6E0OTw8Z8oCCURG1YQM2ZFG5ova--60W/ts
+#EXTINF:-1,CO | 01 • Caracol
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSxI2sJWymZDHd_rreNpcyD8hCTmFebBdSy5bI-apFMz/ts
+#EXTINF:-1,CO | 02 • Caracol
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSxI2sJWymZDHd_rreNpcyBi7kYQnVbzzGqo0UHqLUpt/ts
+#EXTINF:-1,CO | 03 • Caracol
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSxI2sJWymZDHd_rreNpcyCMLQSd8jCIeGfEBY2NSlWm/ts
+#EXTINF:-1,CO | 04 • Caracol Internacional
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSxI2sJWymZDHd_rreNpcyBp11j9ketCIW6SKhddb_f7/ts
+#EXTINF:-1,CO | 01 • RCN
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSxI2sJWymZDHd_rreNpcyAe9MsHHKVS507U3UAYFKwY/ts
+#EXTINF:-1,CO | 02 • RCN
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSxI2sJWymZDHd_rreNpcyCDA4GXa9wQ9kDYbT1BRmU2/ts
+#EXTINF:-1,CO | 03 • RCN
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSxI2sJWymZDHd_rreNpcyDGSrY8UHMlzPQTrMZlyLvW/ts
+#EXTINF:-1,CO | RCN Nuestra Tele ᴴᴰ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUhi9UUWCl8jA7MPdtC-T58quXQVRhy4AAvLEEAAk34V/ts
+#EXTINF:-1,CO | Cable Noticias ᴴᴰ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUhi9UUWCl8jA7MPdtC-T586Zc41wj9XSr7XjZ0GgkKC/ts
+#EXTINF:-1,CO | Canal 1 ᴴᴰ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUhi9UUWCl8jA7MPdtC-T58XVIDltBpli4D3uInSP92s/ts
+#EXTINF:-1,CO | Canal Capital
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUhi9UUWCl8jA7MPdtC-T5-js8xdfLfVE5pCx8B9zb52/ts
+#EXTINF:-1,CO | City TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUhi9UUWCl8jA7MPdtC-T58fngiEmpdzmMutDVPX8UAE/ts
+#EXTINF:-1,CO | City TV SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUhi9UUWCl8jA7MPdtC-T59CxW60CI4CRLFa7S9zjJ9H/ts
+#EXTINF:-1,CO | La Kalle ᴴᴰ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVhqaTPDCvUYO7PFZ62Bjk8K7mDGd-e2--Y0w9Z5uRqu/ts
+#EXTINF:-1,CO | NTN24
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVhqaTPDCvUYO7PFZ62Bjk9-bwu98Z7YPJZoECBNc-e6/ts
+#EXTINF:-1,CO | RCN+ ᴴᴰ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVhqaTPDCvUYO7PFZ62Bjk8MwVDJv8ZAwdGkRigeZnyL/ts
+#EXTINF:-1,CO | Señal Colombia
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVhqaTPDCvUYO7PFZ62Bjk_X1ZugxWjZ-RwZf_TXxdUG/ts
+#EXTINF:-1,CO | Telantioquia HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVhqaTPDCvUYO7PFZ62Bjk-_738n1cdpxXtMGdU5SAcb/ts
+#EXTINF:-1,CO | Telecafe
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVhqaTPDCvUYO7PFZ62Bjk8BvAW4NxhudCXPPcz5zAQQ/ts
+#EXTINF:-1,CO | TeleCafe ᴴᴰ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVhqaTPDCvUYO7PFZ62Bjk8PLFod3DhibS7D7ONjaji5/ts
+#EXTINF:-1,CO | Telecaribe HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaJ41C_M0peXYnx9S4yIdDNRLxZLwBJizBpI7HVT_-Wa/ts
+#EXTINF:-1,CO | Telecaribe HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaJ41C_M0peXYnx9S4yIdDM2AuXJ8f61JcP3fZekjX8p/ts
+#EXTINF:-1,CO | TelePacifico HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaJ41C_M0peXYnx9S4yIdDM4NqHQfnDRoENwiDqJlMfO/ts
+#EXTINF:-1,COL | TV AGRO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaJ41C_M0peXYnx9S4yIdDOLzf_NinPWtCPhMg5QZj-A/ts
+#EXTINF:-1,PREMIUM | A&E FHD -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8h8RV_OlhrP2noyj39OsT4RR5jszP-IvNQspH__d1J/ts
+#EXTINF:-1,PREMIUM | A&E HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8h8RV_OlhrP2noyj39OsTDcXAB1bwrtBi9zFesawN2/ts
+#EXTINF:-1,PREMIUM | AMC FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8pAUJgS79g8SA8koiVHA47rN3C55l4Ux3bi7rIyMEY/ts
+#EXTINF:-1,PREMIUM | ATRESERIES -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8pAUJgS79g8SA8koiVHA5whS5Jb6ANqgf0yBk1gIVZ/ts
+#EXTINF:-1,PREMIUM | ATRESERIES HQ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8pAUJgS79g8SA8koiVHA5UaIpPyjJF5bL0PU_3Oqjm/ts
+#EXTINF:-1,PREMIUM | AXN HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8pAUJgS79g8SA8koiVHA6Q_bd6yXfpTYCokAH0GtIc/ts
+#EXTINF:-1,PREMIUM | AXN FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8pAUJgS79g8SA8koiVHA7qxSMcC6BrKermOgYmKX3_/ts
+#EXTINF:-1,PREMIUM | CINE LATINO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8pAUJgS79g8SA8koiVHA6TUGypTVEJbUa8IZK0OJMO/ts
+#EXTINF:-1,PREMIUM | CINECANAL FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8pAUJgS79g8SA8koiVHA4gPkpx-BdLDr1iyh7z2uZ3/ts
+#EXTINF:-1,PREMIUM | CINECANAL HD -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8pAUJgS79g8SA8koiVHA5YpCbT_1Rdut5qQ_xgeOzI/ts
+#EXTINF:-1,PREMIUM | CINEMA DINAMITA HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlc8pAUJgS79g8SA8koiVHA5bFPaNgFtJau1FHEadDqOw/ts
+#EXTINF:-1,PREMIUM | CINEMA DINAMITA HQ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbQJbOOrciA7nMAz5aSTnzkhdZ994UhZugnmyQA90s0u/ts
+#EXTINF:-1,PREMIUM | CINEMAX FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbQJbOOrciA7nMAz5aSTnzkUrBpCkYJwhLxkBUcpHRoV/ts
+#EXTINF:-1,PREMIUM | CINEMAX HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbQJbOOrciA7nMAz5aSTnzl3Bad5blUK5CaP4K9s4jhC/ts
+#EXTINF:-1,PREMIUM | DE PELICULA PLUS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbQJbOOrciA7nMAz5aSTnzm7LB2AMJ0lSUarHrYXqsd9/ts
+#EXTINF:-1,PREMIUM | DE PELICULAS CLASICO FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbQJbOOrciA7nMAz5aSTnzkBE0DQlTsXQGFaxZEElCg4/ts
+#EXTINF:-1,PREMIUM | DHE FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbQJbOOrciA7nMAz5aSTnzmIALYidCggpm-XDbjH-WHi/ts
+#EXTINF:-1,PREMIUM | DHE HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbQJbOOrciA7nMAz5aSTnzk5X5Zn5_vqlygkCLZywBtu/ts
+#EXTINF:-1,PREMIUM | FILM & ARTS FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbQJbOOrciA7nMAz5aSTnznF85kYZWOacqeIs-GsgFg4/ts
+#EXTINF:-1,PREMIUM | FX FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-sRYts0pVwY97BSjFNJ8L-IC62fgeA1T0Zlw0511WG/ts
+#EXTINF:-1,PREMIUM | FX HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-sRYts0pVwY97BSjFNJ8K2j1BWU5vromPyrjYDdMF2/ts
+#EXTINF:-1,PREMIUM | GOLDEN EDGE FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-sRYts0pVwY97BSjFNJ8KSizbjkUFb9xZDyK7AZua-/ts
+#EXTINF:-1,PREMIUM | GOLDEN EDGE HQ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-sRYts0pVwY97BSjFNJ8KDE_6Xlwl9_aFr30oStRGo/ts
+#EXTINF:-1,PREMIUM | GOLDEN FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-sRYts0pVwY97BSjFNJ8KdHGvRjyZ0RvZYLnFTV6FG/ts
+#EXTINF:-1,PREMIUM | GOLDEN HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-sRYts0pVwY97BSjFNJ8JDDO84x1Fvfw_j1xfBkv0G/ts
+#EXTINF:-1,PREMIUM | GOLDEN PLUS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-sRYts0pVwY97BSjFNJ8LPJB7jvAEhZGZw0NqgCuoP/ts
+#EXTINF:-1,PREMIUM | GOLDEN PLUS FHD -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-sRYts0pVwY97BSjFNJ8LZeDU2brQxQCb2IWfcqgI8/ts
+#EXTINF:-1,PREMIUM | GOLDEN PREMIER HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-sRYts0pVwY97BSjFNJ8ILBzfFxo8Dpc1KwfyBlfaJ/ts
+#EXTINF:-1,PREMIUM | GOLDEN PREMIER HQ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQ-sRYts0pVwY97BSjFNJ8JdaGer-Ydr7NkNp3SMl-0D/ts
+#EXTINF:-1,PREMIUM | HBO 2 FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUAlzhLH_4cVMKCKESkAw8AvnTHYZ73xmNIdJGc73WTr/ts
+#EXTINF:-1,PREMIUM | HBO 2 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUAlzhLH_4cVMKCKESkAw8AmclhVoWs6wSAN5MhPK2Ij/ts
+#EXTINF:-1,PREMIUM | HBO FAMILY FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUAlzhLH_4cVMKCKESkAw8CxDvPPPV9qzK3UE3oIG98W/ts
+#EXTINF:-1,PREMIUM | HBO FAMILY HD *
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUAlzhLH_4cVMKCKESkAw8Dw1TiqdI34ddCRvskNHeRw/ts
+#EXTINF:-1,PREMIUM | HBO SUR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUAlzhLH_4cVMKCKESkAw8BYjBvMvkNudtI2-otNyNdH/ts
+#EXTINF:-1,PREMIUM | HBO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUAlzhLH_4cVMKCKESkAw8AX7jIwHPVS6w05g1Op1w3d/ts
+#EXTINF:-1,PREMIUM | HBO MUNDI HQ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUAlzhLH_4cVMKCKESkAw8CqQBbnYEKij730E7Emiqy_/ts
+#EXTINF:-1,PREMIUM | HBO PLUS FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUAlzhLH_4cVMKCKESkAw8Ag_x67Z0BgtnilNarS_5dM/ts
+#EXTINF:-1,PREMIUM | HBO PLUS HD *
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUAlzhLH_4cVMKCKESkAw8CuLNdPLotryezaAGkiz3Lk/ts
+#EXTINF:-1,PREMIUM | HBO POP HD -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldURN8IPHgAa3RfynmeVa2P45NzO0G5EFq0oU4XmpKIq/ts
+#EXTINF:-1,PREMIUM | HBO SIGNATURE HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldURN8IPHgAa3RfynmeVa2O_8JnE6_rz46yBrEKhn_uK/ts
+#EXTINF:-1,PREMIUM | HBO SIGNATURE | HQ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldURN8IPHgAa3RfynmeVa2OR2ckpOeFylnNWGu0U73Gu/ts
+#EXTINF:-1,PREMIUM | HBO XTREME HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldURN8IPHgAa3RfynmeVa2OLGzhuZvnlifvF20r_v_Dq/ts
+#EXTINF:-1,PREMIUM | HBO XTREME
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldURN8IPHgAa3RfynmeVa2ODWNiSW5hSMfl7E88Lo2IQ/ts
+#EXTINF:-1,PREMIUM | PARAMOUNT HD -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldURN8IPHgAa3RfynmeVa2MbO8QKFehfP5JSilj4-jtW/ts
+#EXTINF:-1,PREMIUM | SHOWTIME EXTREME HQ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcAM2knslSSuIjjFTwFKQTjG8c6jSDX9WhtMMEJPmKOC/ts
+#EXTINF:-1,PREMIUM | SPACE FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcAM2knslSSuIjjFTwFKQTjXNmhzzOLd-Mqf8u_QHPmw/ts
+#EXTINF:-1,PREMIUM | SPACE  -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcAM2knslSSuIjjFTwFKQTgnDuPHx-dedgQ9cROXIh3M/ts
+#EXTINF:-1,PREMIUM | STAR CHANNEL HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcAM2knslSSuIjjFTwFKQThHnMxDO2zlJpZnFa7lcjka/ts
+#EXTINF:-1,PREMIUM | STAR CHANNEL HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcAM2knslSSuIjjFTwFKQTi6Hp8nowlXxV8a2zFmnp61/ts
+#EXTINF:-1,PREMIUM | STARZ ENCORE SUSPENSE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld1OLi7QZY9eAXANJofC-_HhRkg_znwvb7voXvMDbuw7/ts
+#EXTINF:-1,PREMIUM | SYFY FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld1OLi7QZY9eAXANJofC-_Gwu_HYIbLJGJF_sGah80re/ts
+#EXTINF:-1,PREMIUM | TBS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld1OLi7QZY9eAXANJofC-_HU-iC103f3nImyub2RMS3S/ts
+#EXTINF:-1,PREMIUM | TCM FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld1OLi7QZY9eAXANJofC-_FC38ZmasxQwVjelNJPlREe/ts
+#EXTINF:-1,PREMIUM | TCM HQ
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld1OLi7QZY9eAXANJofC-_GY_IJH0rhEd3KBGxqJ7uT8/ts
+#EXTINF:-1,PREMIUM | TNT HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld1OLi7QZY9eAXANJofC-_Fgf1Jds-qvzCTP23_Simp2/ts
+#EXTINF:-1,PREMIUM | TNT HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld1OLi7QZY9eAXANJofC-_G7E61dyfpmCyrUXKsh-dCf/ts
+#EXTINF:-1,PREMIUM | TNT SERIES • 01
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZzSpv4CHTr4_D59pe08VCp9A6uFCpSxDWH2G6sbYn0J/ts
+#EXTINF:-1,PREMIUM | TNT SERIES • 02
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZzSpv4CHTr4_D59pe08VCqVyxJ4UmP8Sq7ibAdME4Fa/ts
+#EXTINF:-1,PREMIUM | WARNER CHANNEL HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZzSpv4CHTr4_D59pe08VCoBF8KSX2Pwn8pKSEoCrgm4/ts
+#EXTINF:-1,PREMIUM | WARNER CHANNEL FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZzSpv4CHTr4_D59pe08VCr-VpXbyyxTt2rwK6vg7Et-/ts
+#EXTINF:-1,CUL | ANIMAL PLANET FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla4S4nruz6h5_nZx-VqOfwYXVMj8DnAKzJjp_ratwuJg/ts
+#EXTINF:-1,CUL | ANIMAL PLANET HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla4S4nruz6h5_nZx-VqOfwbZ8iiIvJP_cCr522huXkZs/ts
+#EXTINF:-1,CUL | AZTECA CINEMA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla4S4nruz6h5_nZx-VqOfwb_Z9P2MuGIDDiWia0wrDRg/ts
+#EXTINF:-1,CUL | AZTECA UNO -2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla4S4nruz6h5_nZx-VqOfwYr7SMMDnQ-bvkbXbIyAos1/ts
+#EXTINF:-1,CUL | CASA & PEZCA FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla4S4nruz6h5_nZx-VqOfwbLmGspW43uNIJ2_1oTrKmO/ts
+#EXTINF:-1,CUL | COMEDY CENTRAL SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla4S4nruz6h5_nZx-VqOfwZ_ELCr8uphI8Cz0cflyJAE/ts
+#EXTINF:-1,CUL | COMEDY CENTRAL FHD.
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla4S4nruz6h5_nZx-VqOfwa0ywnCxrXpGCxV67wBgNj1/ts
+#EXTINF:-1,CUL | COMEDY CENTRAL MEXICO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfH3w_rQ4hbbaYASAM_Udu3VV6YKJp3ZXBHaSxOjzw1e/ts
+#EXTINF:-1,CUL | DISCOVERY CHANNEL
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfH3w_rQ4hbbaYASAM_Udu32rCy9_9JFGGEW1f-u85zu/ts
+#EXTINF:-1,CUL | DISCOVERY CHANNEL HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfH3w_rQ4hbbaYASAM_Udu3oWttiPc24YMQUxsI2GwMU/ts
+#EXTINF:-1,CUL | HGTV FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfH3w_rQ4hbbaYASAM_Udu0qysA0jRGIlVeF_Kq2Yl2a/ts
+#EXTINF:-1,CUL | DISCOVERY FAMILIA FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfH3w_rQ4hbbaYASAM_Udu3ZiHcyJvcisYZJ3z-iK1XK/ts
+#EXTINF:-1,CUL | DISCOVERY H&H |
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfH3w_rQ4hbbaYASAM_Udu1anMaSQJDCZSh24ltm16XQ/ts
+#EXTINF:-1,CUL | DISCOVERY ID
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleB_XTw32lsX_r1YGOzB0ve4YM1XRlh_FSm_rHZgfhn_/ts
+#EXTINF:-1,CUL | DISCOVERY ID ®
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleB_XTw32lsX_r1YGOzB0veM5G75oq5Fmxm1VKT02-JL/ts
+#EXTINF:-1,CUL | DISCOVERY SCIENCE FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleB_XTw32lsX_r1YGOzB0vc0RIsegshrsZBQjBVMdjuh/ts
+#EXTINF:-1,CUL | DISCOVERY SCIENCE HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleB_XTw32lsX_r1YGOzB0vcqvpIJOarUJh5CRgKLHD2l/ts
+#EXTINF:-1,CUL | DISCOVERY THEATER | FHD -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleB_XTw32lsX_r1YGOzB0vdyqSY7OrcPQDAKQoOcKzQs/ts
+#EXTINF:-1,CUL | DISCOVERY THEATER HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleB_XTw32lsX_r1YGOzB0vdCMHfTUdO5Tt_C14roFoDn/ts
+#EXTINF:-1,CUL | DISCOVERY TURBO SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleB_XTw32lsX_r1YGOzB0vcIN-rHDNzw6MxAjlevmpDX/ts
+#EXTINF:-1,CUL | DISCOVERY TURBO | HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleB_XTw32lsX_r1YGOzB0vfSLoXbGtfDm1MmCVh-nLY7/ts
+#EXTINF:-1,CUL | DISCOVERY WORLD SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleB_XTw32lsX_r1YGOzB0veviYhOBgco7Q4huQqaMKpW/ts
+#EXTINF:-1,CUL | DISCOVERY WORLD FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAleB_XTw32lsX_r1YGOzB0vcvtNvsVf-s0_NOW9HkvTDC/ts
+#EXTINF:-1,CUL | DW EN ESPAÑOL FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY81HI0oakLJEfJLvoh794ALx99vSFHX4mIDnjgXBnU4/ts
+#EXTINF:-1,CUL | DW | FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY81HI0oakLJEfJLvoh794Db8PMcxiOuPPP0Vtp8alnh/ts
+#EXTINF:-1,CUL | E! ENTERTAINMENT HD -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY81HI0oakLJEfJLvoh794BLcMtRGT559C2PXJ3Kf2ZD/ts
+#EXTINF:-1,CUL | E! ENTERTAINMENT FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY81HI0oakLJEfJLvoh794CBhXU48TkrcOmP4Kon-lWA/ts
+#EXTINF:-1,CUL | FOOD NETWORK HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY81HI0oakLJEfJLvoh794DUNe56MyIwI-amVXVMjNt3/ts
+#EXTINF:-1,CUL | FOOD NETWORK HD -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY81HI0oakLJEfJLvoh794CyP8fvH8wJMZmWD6qyRBPs/ts
+#EXTINF:-1,CUL | GARAGE TV HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY81HI0oakLJEfJLvoh794B4TdFAOTUGMHw3aK-Kzznn/ts
+#EXTINF:-1,CUL | GLITZ FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY81HI0oakLJEfJLvoh794C10tPTNyEDd2DOmRh1PBAD/ts
+#EXTINF:-1,CUL | GOURMET FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlY81HI0oakLJEfJLvoh794ClnDKHnPwTP-F-AcZkq_J_/ts
+#EXTINF:-1,CUL | GOURMET HD -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaOO5MHMHunbX8IU0UkSKsxqiJTtYG-pGgvVDFeeXBT1/ts
+#EXTINF:-1,CUL | HGTV HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaOO5MHMHunbX8IU0UkSKsxDrDvjomjfL4BiNCTkO5J7/ts
+#EXTINF:-1,CUL | HISTORY 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaOO5MHMHunbX8IU0UkSKsyMlT8wamfca4FR2cRw-mQp/ts
+#EXTINF:-1,CUL | HISTORY 2 FHD.
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaOO5MHMHunbX8IU0UkSKsxEmhNlwELUAZUGJcCXf-rr/ts
+#EXTINF:-1,CUL | HISTORY HD *
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaOO5MHMHunbX8IU0UkSKsxoKc7xkf6pgTYAKdQElyRm/ts
+#EXTINF:-1,CUL | HISTORY FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaOO5MHMHunbX8IU0UkSKszojPuL3jIp72aNlMoyrREU/ts
+#EXTINF:-1,CUL | HOLA TV HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaOO5MHMHunbX8IU0UkSKszMp35vvEMF4ySiI2fpZDeu/ts
+#EXTINF:-1,CUL | LIFETIME HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaOO5MHMHunbX8IU0UkSKsyG3Z7boM0zbKWVM7mY4bCR/ts
+#EXTINF:-1,CUL | LIFETIME 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUW4kAWxO_Iv5h-lgn5nuK7Jul5WwhVxfx_2Cyvm93FP/ts
+#EXTINF:-1,CUL | LOVE NATURE HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUW4kAWxO_Iv5h-lgn5nuK5H1XO-iob5XHxjG3dHE74a/ts
+#EXTINF:-1,CUL | LOVE NATURE FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUW4kAWxO_Iv5h-lgn5nuK6tjpxNHtLg49zGHuPdM-Gu/ts
+#EXTINF:-1,CUL | MAS CHIC HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUW4kAWxO_Iv5h-lgn5nuK7vBa6mqutybO_UP9G17LWV/ts
+#EXTINF:-1,CUL | NATGEO FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUW4kAWxO_Iv5h-lgn5nuK6O8L_rQYlOlW-cubaHBCFC/ts
+#EXTINF:-1,CUL | NATGEO WILD FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUW4kAWxO_Iv5h-lgn5nuK7X7B5fk2Kn2NNZocjqe8s1/ts
+#EXTINF:-1,CUL | NATGEO WILD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUW4kAWxO_Iv5h-lgn5nuK5Ylfb9Qc9fcxpEYuJWlHIE/ts
+#EXTINF:-1,CUL | NATGEO HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUW4kAWxO_Iv5h-lgn5nuK5Czkw-Fwc00p2ChTBvwtOk/ts
+#EXTINF:-1,CUL | TASTEMADE  HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVbct1Q0BiMxL8cUcmTOZKhfipeHRjZ61SuiYrLO8AwC/ts
+#EXTINF:-1,CUL | TLC FHD -
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVbct1Q0BiMxL8cUcmTOZKjtxC-85zaq9kmtCv3TJc-w/ts
+#EXTINF:-1,CUL | TLC HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVbct1Q0BiMxL8cUcmTOZKikg5KZctB4bT0AafAFg6CO/ts
+#EXTINF:-1,PER | 1️⃣ LA LIGA 1 MAX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUL4YaPA8ViARq5JPXLOgOTQ005vs4WDst8DjruS8PbD/ts
+#EXTINF:-1,PER | 2️⃣ LA LIGA 1 MAX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXoZxMPnkQzU6E0OTw8Z8oDCmei3pPGYes_MUrv5YHrL/ts
+#EXTINF:-1,PER | 3️⃣ LA LIGA 1 MAX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXoZxMPnkQzU6E0OTw8Z8oDi68AgrfwAh6qg1BA9jDzM/ts
+#EXTINF:-1,PER | 1️⃣ Liga 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlV9Nv6ZluFu0HQ-cJh98rQqw1ETyBTerDseypYo3qIIs/ts
+#EXTINF:-1,PER | 2️⃣ Liga 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlV9Nv6ZluFu0HQ-cJh98rQrVVQWOuVTCkPAZ00m2ELpp/ts
+#EXTINF:-1,PER | 1️⃣ GOL PERU
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXoZxMPnkQzU6E0OTw8Z8oA2y-6D1d5CJb07hBmrcg9u/ts
+#EXTINF:-1,PER | 2️⃣ GOL PERU
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXoZxMPnkQzU6E0OTw8Z8oADPpTIXFwIi2ldjFowuY-q/ts
+#EXTINF:-1,PER | 3️⃣ GOL PERU
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXoZxMPnkQzU6E0OTw8Z8oBADt-2FHI2k9KG5zEwrLFy/ts
+#EXTINF:-1,PER | 1️⃣ MOVISTAR DEPORTES
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT_OFLZzRJucrulXyzy_ZPQLDh1Ie2wXb03m12rZa7Zx/ts
+#EXTINF:-1,PER | 2️⃣ MOVISTAR DEPORTES
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlT_OFLZzRJucrulXyzy_ZPTtcbR4vT4BQQXR8t9NXqdF/ts
+#EXTINF:-1,PER | 1️⃣ MOVISTAR PLUS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcO_J9eJEmU8_QMt12o844W_91El499zTejW-FIElV-r/ts
+#EXTINF:-1,PER | 2️⃣ MOVISTAR PLUS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlcO_J9eJEmU8_QMt12o844Un8QPz2VuKb8HCSa0GGOMl/ts
+#EXTINF:-1,PER | 1️⃣ ESPN
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld6g-gvEtd-uHJz0Inxa41KHkpN_uj2FV9ly_G4UqCYn/ts
+#EXTINF:-1,PER | 2️⃣ ESPN
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAld6g-gvEtd-uHJz0Inxa41KNO5DrsIt2mvmn663RTbTJ/ts
+#EXTINF:-1,CINE | SONY MAX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYYApptHfuUvyVEK6QRyIArRwzLQ9Q1oJGayMA7Qvv7j/ts
+#EXTINF:-1,CINE | SONY HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYYApptHfuUvyVEK6QRyIAohEzSjgQk2Y0hP2HggwIRv/ts
+#EXTINF:-1,CINE | SONY NOVELAS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYYApptHfuUvyVEK6QRyIAp4JGgmKzUXnRKBRmYW7w_d/ts
+#EXTINF:-1,SONY MOVIE HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYYApptHfuUvyVEK6QRyIArdPDeuM3Mg4M3j9HaP_JV5/ts
+#EXTINF:-1,SONY MOVIES
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlYYApptHfuUvyVEK6QRyIAqP67HOaFU_e3Av51trL44N/ts
+#EXTINF:-1,CINE | STUDIO CHANEL FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbVYKBnzKdVJmO-ByT0BCvKE_HZeV4k6s_Ce_GEDWnlh/ts
+#EXTINF:-1,ARG | CANAL 26 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXntMNR9tuK4puxj8FY_lDFqGXVCy1AXPMlEWkr8fQWG/ts
+#EXTINF:-1,ARG | TELEFE
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTZCA6zhuHwSAYchLzsPfJUiewHWKx3wwX6iB3eFxxgy/ts
+#EXTINF:-1,ARG | Canal 13 - EL TRECE OPC. A
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlTZCA6zhuHwSAYchLzsPfJUGjFl2-RlnReODat9gTeW_/ts
+#EXTINF:-1,ARG | Canal 13 - EL TRECE OPC. B
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlQZFCQpcjz8pexDrgOHD5Tp3o8LzYBEXjIgb1k37grYz/ts
+#EXTINF:-1,ARG | Canal 13 - EL TRECE OPC. C
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZMrQGE5K4Lh-QvLKK9Bau2nu0jPGCtisvIKNzuw_NPL/ts
+#EXTINF:-1,ARG | TELEMAX
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfP4ozHhMBqBHWnO7n5fPaMfTo2HTncruekEYP128TDD/ts
+#EXTINF:-1,Paka Paka | AR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlUAo_sIHuwBNF788Bo4b8ORgBqhvjtZjQ-AqawdZCTpP/ts
+#EXTINF:-1,Canal 79 Mar del Plata | AR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfQspk28GnTSo6ret6xALi9xvfix00fz7rCg3NGjYdj0/ts
+#EXTINF:-1,Uni Teve | AR
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaG_yZZBfSwXOx8niR55AgrcUOFVfj_EL8s-DN1F9N_x/ts
+#EXTINF:-1,ARG: A24
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSTvqJ-JuIerEynu0YMwTCDJOI5gqo6lcDQF5I7ZvyLU/ts
+#EXTINF:-1,ARG | C5N FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbuD2mPTaEs0VDNa8HhYN6sbkwU8vMwplk69mWGnN9fv/ts
+#EXTINF:-1,ARG | C5N SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbuD2mPTaEs0VDNa8HhYN6tMhNoYW3bsuk7IpinhaVHa/ts
+#EXTINF:-1,ARG | VOLVER SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbuD2mPTaEs0VDNa8HhYN6sDS2gEDF_nrwlF2xobx_7d/ts
+#EXTINF:-1,CINE | DE PELICULA CLASICO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlV3ooP5IR3IQdAllebEA0pVC33wenc4ST70bKGCK0bVx/ts
+#EXTINF:-1,CINE | DE PELICULA HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlV3ooP5IR3IQdAllebEA0pXm91PCSH-NspOpjQlm3L-z/ts
+#EXTINF:-1,CINE | DE PELICULA FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlV3ooP5IR3IQdAllebEA0pVliEddSXKJL5y9cohPFf_I/ts
+#EXTINF:-1,CINE | DE PELICULA PLUS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlV3ooP5IR3IQdAllebEA0pXZvQk8tcqaDJ4mhfwIzQRZ/ts
+#EXTINF:-1,VE | VENEVISION HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS2rE9LrQDVCMowCceG_avKF8MQJ5NmB4zisHoZid0Rc/ts
+#EXTINF:-1,VE | VENEVISION PLUS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS2rE9LrQDVCMowCceG_avKTC6v3qUCHS7orJQu89CjH/ts
+#EXTINF:-1,VE | GLOBOVISION
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS2rE9LrQDVCMowCceG_avJCg7Tcdt8uNxC3lsSjqoT3/ts
+#EXTINF:-1,VE | TLT HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS2rE9LrQDVCMowCceG_avJWt08FfsyikVloKtd5-hBW/ts
+#EXTINF:-1,VE | IVC FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlS2rE9LrQDVCMowCceG_avJUXtC6PCo1HmHhgU5OBtcr/ts
+#EXTINF:-1,VE | MERIDIANO FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlczh2QIj1HdQT4XjYg8YLSkNB8K9WXEhGbanG8376pub/ts
+#EXTINF:-1,UNI - UNIVISION TLENOVELAS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSD2NKH0TE2OlPBJMFA4tWdF-vhGNSD8UcyZVETXFYkU/ts
+#EXTINF:-1,UNI - UNIVISION NY
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSD2NKH0TE2OlPBJMFA4tWdASEya-TAaxDz2Gsjon0MT/ts
+#EXTINF:-1,UNI - UNIVISION SAN FRANCISCO
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSD2NKH0TE2OlPBJMFA4tWdPrwt77as2dvCZKYrais8G/ts
+#EXTINF:-1,UNI - UNIVISION PHILADELFIA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSD2NKH0TE2OlPBJMFA4tWeITDdSbWkv9t0TTC5E8hB5/ts
+#EXTINF:-1,GALAVISION HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSD2NKH0TE2OlPBJMFA4tWeAAo76mBHgxFWgwyQqsxWz/ts
+#EXTINF:-1,GALAVISION ATLANTA HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSD2NKH0TE2OlPBJMFA4tWfJ8NuxVlDm0NH0tbNIN_53/ts
+#EXTINF:-1,GALAVISION MIAMI HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSnFTGzKqp3HxRYAX3zXhUnnW3GI59oxATQPHOR8hD9y/ts
+#EXTINF:-1,GALAVISION NEW YORK HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSnFTGzKqp3HxRYAX3zXhUmNMyRgWCH3NQTd9JgxBtFJ/ts
+#EXTINF:-1,GALAVISION HOUSTON HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSnFTGzKqp3HxRYAX3zXhUliJQVnjda9XoIwQT2p7ki-/ts
+#EXTINF:-1,GALAVISION LOS ANGELES HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSnFTGzKqp3HxRYAX3zXhUmX7g1bEPwz3dPTBX9iARML/ts
+#EXTINF:-1,GALAVISION SAN ANTONIO HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSnFTGzKqp3HxRYAX3zXhUnby6Jn7JR64kQ5C7cYmdz8/ts
+#EXTINF:-1,GALAVISION SAN FRANCISCO HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlSnFTGzKqp3HxRYAX3zXhUlSWktJcR7D44aslm9H6Z71/ts
+#EXTINF:-1,AR | DIRECTV SPORTS 2 FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldPRAYKlddHv5SeFWyAk4Omne9YP7qbFPOxs_FfrT4kd/ts
+#EXTINF:-1,AR | ESPN 1 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldPRAYKlddHv5SeFWyAk4On0nQwqZMCYdHofgse1XtBt/ts
+#EXTINF:-1,AR | ESPN 2 HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldPRAYKlddHv5SeFWyAk4OnLWoA0TIJyinZkxLMA952r/ts
+#EXTINF:-1,AR | ESPN 3 FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldPRAYKlddHv5SeFWyAk4Onin1pJ-nzOZe7X_Y75cS6s/ts
+#EXTINF:-1,AR | ESPN PREMIUM HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldPRAYKlddHv5SeFWyAk4OmP7FKJQ2ATFaoj5NMF-skZ/ts
+#EXTINF:-1,AR | ESPN SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAldPRAYKlddHv5SeFWyAk4OmnPPX5ViNYDI4NXuCJnPEy/ts
+#EXTINF:-1,AR | FOX SPORTS 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVmVd3gMR0NjUa230plNdj-4Yk7-HxID6oASNj_eXc-l/ts
+#EXTINF:-1,AR | FOX SPORTS 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVmVd3gMR0NjUa230plNdj_wVXH28mXE_VfEX6a-Cc8R/ts
+#EXTINF:-1,AR | FOX SPORTS 3
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVmVd3gMR0NjUa230plNdj8xEM_NIHnscW2wTeQWmTwU/ts
+#EXTINF:-1,AR | TNT SPORTS HD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVmVd3gMR0NjUa230plNdj8nlfFGN1eX4cDh66QV-ibp/ts
+#EXTINF:-1,AR | TNT SPORTS SD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVmVd3gMR0NjUa230plNdj9ZnnWocUB2JQCX2k_Clrbs/ts
+#EXTINF:-1,AR | TYC SPORTS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVmVd3gMR0NjUa230plNdj8A14rLBmddy6SHmeNnwzXb/ts
+#EXTINF:-1,AR | TYC SPORTS LOCAL FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVmVd3gMR0NjUa230plNdj-G5acqURRwTTekLAUJXTAx/ts
+#EXTINF:-1,CO | CALI TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZz6SdErspi92QNVVxP6DiTq-NUYuPwb5bFwb-r7_smd/ts
+#EXTINF:-1,CO | CNC MEDELLIN FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaijBtiYxKVoMw_tZrMMBX5pozrZGAJMbCSmQH7SHZiY/ts
+#EXTINF:-1,CO | TELEISLAS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaijBtiYxKVoMw_tZrMMBX7Amo-hkpcn299Fx7Lz_Ktt/ts
+#EXTINF:-1,ESPN | Espn Plus Sur
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfo7QztutDbG41pz8eHpX_6RNADVRxCBHliBQ2LLW5lM/ts
+#EXTINF:-1,ESPN | Espn Plus | 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfo7QztutDbG41pz8eHpX_5Rk7wTx6exGIXTqMt-WASV/ts
+#EXTINF:-1,ESPN | Espn Plus |
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlfo7QztutDbG41pz8eHpX_4Wxk7gOiErraIyC-b-QwOF/ts
+#EXTINF:-1,ADRENALINA SPORTS FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlVBFCAJCzh9wP7seSsUG8qG1xL36YrSsKCr4VWTheVyj/ts
+#EXTINF:-1,GOL TV LATINOAMERICA
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaMlWIcdhJ98sDam8ACWGk5a2ooGHxruT9QQLV8OxfyB/ts
+#EXTINF:-1,GOLF CHANNEL
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaMlWIcdhJ98sDam8ACWGk4SOq5mX9k2ZGS3ZYseZMbB/ts
+#EXTINF:-1,LALIGA TV HYPERMOTION 1 ESPAÑA FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaMlWIcdhJ98sDam8ACWGk6orIi8XhnQzvkQNhMHL83B/ts
+#EXTINF:-1,LALIGA TV HYPERMOTION 3 ESPAÑA FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaMlWIcdhJ98sDam8ACWGk4UQSmT7Ubrvk45FUGtbkSd/ts
+#EXTINF:-1,LALIGA TV HYPERMOTION 2 ESPAÑA FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlaMlWIcdhJ98sDam8ACWGk4LmAT9qjsLn5h43mre2u46/ts
+#EXTINF:-1,RED BULL TV
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlXDg1Sf95itjL_XJClI2sIv2ErpxXFk4HFc5NADWyuD1/ts
+#EXTINF:-1,TENNIS CHANNEL USA FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbrsgghDo2xi-HNiI6O7d-D6UusiAHgeteBHE-TYmj-C/ts
+#EXTINF:-1,TNT SPORTS | 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbrsgghDo2xi-HNiI6O7d-A-T3Q-X0epfOS3gehaV9bm/ts
+#EXTINF:-1,TNT SPORTS | 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbrsgghDo2xi-HNiI6O7d-B_gsBco1jX1wP29JfPI_k6/ts
+#EXTINF:-1,TNT SPORTS | 3
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlbrsgghDo2xi-HNiI6O7d-B3VSXVhmTiaRA4ysq8fCdJ/ts
+#EXTINF:-1,TOROS
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAle-nzRO--dHUjF6nz6lWOtDJfd2mjpR3eSuxxT3dhDZv/ts
+#EXTINF:-1,TUDN USA FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAle-nzRO--dHUjF6nz6lWOtA5bBLsTi3nKUWgf68wuKto/ts
+#EXTINF:-1,TUDN XTRA 1
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8T6mzN2L2Qn_wthvcnzccfUhV1HiPIfVBvgpKkCYC_/ts
+#EXTINF:-1,TUDN XTRA 10
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8T6mzN2L2Qn_wthvcnzcdRS2aYlG8GviUEdYHSAa5y/ts
+#EXTINF:-1,TUDN XTRA 2
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8T6mzN2L2Qn_wthvcnzceIGbIPOqUlZOOYl-DxXCkh/ts
+#EXTINF:-1,TUDN XTRA 3
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8T6mzN2L2Qn_wthvcnzccWir3KGvZGecJJnI-4BikW/ts
+#EXTINF:-1,TUDN XTRA 4
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8T6mzN2L2Qn_wthvcnzccGPonPx-nezlPiVMOK08XR/ts
+#EXTINF:-1,TUDN XTRA 5
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8T6mzN2L2Qn_wthvcnzccQAiaHfHxodPa5W7DfquRV/ts
+#EXTINF:-1,TUDN XTRA 6
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8T6mzN2L2Qn_wthvcnzceJzWHBC5_qZZVvulEFz3dT/ts
+#EXTINF:-1,TUDN XTRA 8
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8T6mzN2L2Qn_wthvcnzcfHHWExAHh-M90_OQcJvKqL/ts
+#EXTINF:-1,TUDN XTRA 9
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZ8T6mzN2L2Qn_wthvcnzccNPvIg0PCWqJdzTEHSqaHE/ts
+#EXTINF:-1,UFC NETWORK FHD
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAlZdUBMKXRjST-5uSj7R3EbYYh4BC2O_Fzp2-Dt972lWH/ts
+#EXTINF:-1,WWE NETWORK
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla8gqwDOpQP3c6O-Lm2xBWh1alMj5xRFI0W5VCJl6q68/ts
+#EXTINF:-1,TOROS HD (OP B)
+https://593zona.live:8443/play/bzyXVvzEU1X4aiF-oEZAla8gqwDOpQP3c6O-Lm2xBWhZKf05ZJiBCnne39cFABtK/ts
