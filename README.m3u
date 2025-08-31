@@ -5,6 +5,25 @@ http://72.76.253.25:8000/play/a07a/index.m3u8
 http://72.76.253.25:8000/play/a08b/index.m3u8
 #EXTINF:-1,UNIVISION
 http://72.76.253.25:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="-",DSR CANAL 5 HD
+http://45.189.62.33:8002/play/a0nu/index.m3u8
+#EXTINF:-1 group-title="-",DSR D pelicula
+http://45.189.62.33:8002/play/a0nx/index.m3u8
+#EXTINF:-1 group-title="-",DSR D pelicula SD
+http://45.189.62.33:8002/play/a0o4/index.m3u8
+#EXTINF:-1 group-title="-",DSR ESTRELLAS HD -2H 
+http://45.189.62.33:8002/play/a0ns/index.m3u8
+#EXTINF:-1 group-title="-",DSR FOROTV HD
+http://45.189.62.33:8002/play/a0o3/index.m3u8
+#EXTINF:-1 group-title="-",DSR FOROTV SD
+http://45.189.62.33:8002/play/a0nv/index.m3u8
+#EXTINF:-1 group-title="-",DSR el9nueve HD
+http://45.189.62.33:8002/play/a0nw/index.m3u8
+#EXTINF:-1 group-title="-",DSR el9nueve SD
+http://45.189.62.33:8002/play/a0o2/index.m3u8
+#EXTINF:-1 group-title="-",DSR estrellas HD
+http://45.189.62.33:8002/play/a0nr/index.m3u8
+
 #EXTINF:-1, TUDN
 http://181.78.99.187:8000/play/a0r4/index.m3u8
 #EXTINF:-1 group-title="-",TUDN 59 - IPMOD
