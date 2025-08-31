@@ -1,4 +1,75 @@
 #EXTM3U
+#EXTINF:-1, TUDN
+http://181.78.99.187:8000/play/a0r4/index.m3u8
+#EXTINF:-1 group-title="-",TUDN 59 - IPMOD
+http://186.33.0.101:4430/play/tudn2/index.m3u8
+#EXTINF:-1 group-title="-",TUDN-CH59
+http://186.33.0.101:4430/play/tudn/index.m3u8
+#EXTINF:-1 group-title="-",Canal 65
+http://186.33.0.101:4430/play/canalseiscinco/index.m3u8
+#EXTINF:-1 group-title="-",11 AZ Deportes
+http://201.174.175.3:8000/play/a0nr/index.m3u8
+#EXTINF:-1 group-title="-",69 ESPN HD
+http://201.174.175.3:8000/play/a0vh/index.m3u8
+#EXTINF:-1 group-title="-",70 ESPN 2 HD
+http://201.174.175.3:8000/play/a0vi/index.m3u8
+#EXTINF:-1 group-title="-",71 ESPN 3 HD
+http://201.174.175.3:8000/play/a0vj/index.m3u8
+#EXTINF:-1 group-title="-",72 ESPN 4
+http://201.174.175.3:8000/play/a0vz/index.m3u8
+#EXTINF:-1 group-title="-",73 ESPN 5 HD
+http://201.174.175.3:8000/play/a0ve/index.m3u8
+#EXTINF:-1 group-title="-",74 ESPN 6 HD
+http://201.174.175.3:8000/play/a0vk/index.m3u8
+#EXTINF:-1,FOX SPORT  
+http://64.76.229.95:2015/play/a00h/index.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://64.76.229.95:2015/play/a00s/index.m3u8
+#EXTINF:-1,FOX SPORT 3  
+http://64.76.229.95:2015/play/a00d/index.m3u8
+#EXTINF:-1,FOX SPORT PREMIUM
+http://64.76.229.95:2015/play/a004/index.m3u8
+#EXTINF:-1, TVC D 2
+http://190.61.34.164:8000/play/a02v/index.m3u8
+#EXTINF:-1,ESPN Premium HD
+http://199.188.103.176:8000/play/a056/index.m3u8
+#EXTINF:-1,ESPN HD
+http://199.188.103.176:8000/play/a04y/index.m3u8
+#EXTINF:-1,ESPN HD
+http://199.188.103.176:8000/play/a051/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://199.188.103.176:8000/play/a0ff/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://199.188.103.176:8000/play/a09n/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://199.188.103.176:8000/play/a0am/index.m3u8
+#EXTINF:-1,ESPN 4HD
+http://199.188.103.176:8000/play/a098/index.m3u8
+#EXTINF:-1,ESPN 5HD
+http://199.188.103.176:8000/play/a0ae/index.m3u8
+#EXTINF:-1,ESPN 6HD
+http://199.188.103.176:8000/play/a08s/index.m3u8
+#EXTINF:-1,ESPN 7HD
+http://199.188.103.176:8000/play/a0af/index.m3u8
+#EXTINF:-1,DIRECTIVI 2 C/TV
+http://199.188.103.176:8000/play/a0g1/index.m3u8
+#EXTINF:-1,DIRECTV+ C/TV
+http://199.188.103.176:8000/play/a0bi/index.m3u8
+#EXTINF:-1,127 L1MAX
+http://38.187.3.110:8000/play/a069/index.m3u8
+#EXTINF:-1,128 D Sport HD
+http://38.187.3.110:8000/play/a04m/index.m3u8
+#EXTINF:-1,LIGA  1  C/TV
+http://199.188.103.176:8000/play/a002/index.m3u8
+#EXTINF:-1,LIGA 1 MAX  C/TV
+http://199.188.103.176:8000/play/a003/index.m3u8
+#EXTINF:-1,TNT Sports Premiun HD
+http://199.188.103.176:8000/play/a09i/index.m3u8
+#EXTINF:-1,NBA
+http://64.76.229.95:2015/play/a002/index.m3u8
+#EXTINF:-1,NFL NETWORKS  
+http://64.76.229.95:2015/play/a018/index.m3u8
+
 #EXTINF:-1 group-title="Nacionales",CHV HD
 http://190.211.172.154:8965/play/a048/index.m3u8
 #EXTINF:-1 group-title="Nacionales",Canal 13 HD
