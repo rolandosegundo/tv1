@@ -23,7 +23,6 @@ http://45.189.62.33:8002/play/a0nw/index.m3u8
 http://45.189.62.33:8002/play/a0o2/index.m3u8
 #EXTINF:-1 group-title="-",DSR estrellas HD
 http://45.189.62.33:8002/play/a0nr/index.m3u8
-
 #EXTINF:-1, TUDN
 http://181.78.99.187:8000/play/a0r4/index.m3u8
 #EXTINF:-1 group-title="-",TUDN 59 - IPMOD
@@ -34,6 +33,32 @@ http://186.33.0.101:4430/play/tudn/index.m3u8
 http://186.33.0.101:4430/play/canalseiscinco/index.m3u8
 #EXTINF:-1 group-title="-",11 AZ Deportes
 http://201.174.175.3:8000/play/a0nr/index.m3u8
+#EXTINF:-1,@607 Siete HD 
+http://148.230.149.45:1020/play/a005/index.m3u8
+#EXTINF:-1,@640 ADN40 HD
+http://148.230.149.45:1020/play/a01w/index.m3u8
+#EXTINF:-1,@661 AMAHD
+http://148.230.149.45:1020/play/a01p/index.m3u8
+#EXTINF:-1,@824 Fight Box HD
+http://148.230.149.45:1020/play/a025/index.m3u8
+#EXTINF:-1,@826 Outdoor HD
+http://148.230.149.45:1020/play/a01y/index.m3u8
+#EXTINF:-1,@830 Azteca Deportes HD
+http://148.230.149.45:1020/play/a026/index.m3u8
+#EXTINF:-1,@837	HSPHD
+http://148.230.149.45:1020/play/a01u/index.m3u8
+#EXTINF:-1,@841 TSPHD
+http://148.230.149.45:1020/play/a01z/index.m3u8
+#EXTINF:-1,@843 Golf HD
+http://148.230.149.45:1020/play/a020/index.m3u8
+#EXTINF:-1,@846 NBA HD
+http://148.230.149.45:1020/play/a029/index.m3u8
+#EXTINF:-1,@847 NFL HD
+http://148.230.149.45:1020/play/a028/index.m3u8
+#EXTINF:-1,@848 TVC Deportes HD
+http://148.230.149.45:1020/play/a01d/index.m3u8
+#EXTINF:-1,@849 AYM Sports HD
+http://148.230.149.45:1020/play/a01e/index.m3u8
 #EXTINF:-1,Universal
 http://200.92.227.238:8000/play/a0uc/index.m3u8
 #EXTINF:-1,11 - Repretel
