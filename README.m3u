@@ -1,4 +1,18 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZTECA UNO" tvg-logo="https://docdog.top/logo/countries/mexico/azteca1.png" group-title="LAME | MEXICO VIP",MEX: AZTECA UNO
+http://vipbtwv.xyz:8080/VIP015981741809426368/887d230d0541/5116
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZTECA 7" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-7-mx.png" group-title="LAME | MEXICO VIP",MEX: AZTECA 7
+http://vipbtwv.xyz:8080/VIP015981741809426368/887d230d0541/5117
+#EXTINF:-1 tvg-id="" tvg-name="MEX: AZTECA DEPORTES" tvg-logo="https://docdog.top/logo/countries/mexico/azteca-mx.png" group-title="LAME | MEXICO VIP",MEX: AZTECA DEPORTES
+http://vipbtwv.xyz:8080/VIP015981741809426368/887d230d0541/5118
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL DE LAS ESTRELLAS" tvg-logo="https://docdog.top/logo/countries/mexico/countrypic.png" group-title="LAME | MEXICO VIP",MEX: CANAL DE LAS ESTRELLAS
+http://vipbtwv.xyz:8080/VIP015981741809426368/887d230d0541/5126
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL 4" tvg-logo="https://docdog.top/logo/countries/mexico/canal4.png" group-title="LAME | MEXICO VIP",MEX: CANAL 4
+http://vipbtwv.xyz:8080/VIP015981741809426368/887d230d0541/5127
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL 5" tvg-logo="https://docdog.top/logo/countries/mexico/canal-5-mx.png" group-title="LAME | MEXICO VIP",MEX: CANAL 5
+http://vipbtwv.xyz:8080/VIP015981741809426368/887d230d0541/5128
+#EXTINF:-1 tvg-id="" tvg-name="MEX: CANAL 8" tvg-logo="https://docdog.top/logo/countries/mexico/canal8.png" group-title="LAME | MEXICO VIP",MEX: CANAL 8
+http://vipbtwv.xyz:8080/VIP015981741809426368/887d230d0541/5129
 #EXTINF:-1,TELEMUNDO
 http://72.76.253.25:8000/play/a07a/index.m3u8
 #EXTINF:-1,UNIMAS
