@@ -18,6 +18,11 @@ http://45.189.151.7:8000/play/a05u/index.m3u8
 http://38.188.186.47:7000/play/a05c
 #EXTINF:-1,Univision HD
 http://38.188.186.47:7000/play/a00v
+#EXTINF:-1,AMERICA TV
+http://143.0.67.75:8000/play/a055/index.m3u8
+#EXTINF:-1,CANAL 9 ARG
+http://143.0.67.75:8000/play/a04h/index.m3u8
+
 #EXTINF:-1,USA
 http://181.79.84.66:8000/play/a00w/index.m3u8
 #EXTINF:-1,TUDN HD
